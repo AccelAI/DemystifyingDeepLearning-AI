@@ -34,6 +34,7 @@ Time | Description
 SUNDAY NOVEMBER 20TH, 2016 - JAMES IRVINE CONFERENCE CENTER
 
 Time | Description
+_______________|_____________________________
 8:45 - 9:30 am | Check-in & Breakfast
 9:30 - 10:00 am | Opening Remarks
 10:00 - 12:00 pm | Intro & Advanced Sessions
