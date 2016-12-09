@@ -8,10 +8,10 @@ JOIN US for an all weekend, hands on workshop series Demystifying Deep Learning 
 
 Learn how to use the latest AI open source platforms including:
 
-*SciKit
-*Tensor Flow
-*ConvNetJS
-*Keras
+-SciKit
+-Tensor Flow
+-ConvNetJS
+-Keras
 
 
 Network & Mingle with PhD students, faculty members, and industry research scientists. Share your projects and vision for the future of Deep Learning & Artificial Intelligence.
