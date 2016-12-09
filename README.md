@@ -22,6 +22,7 @@ Network & Mingle with PhD students, faculty members, and industry research scien
 SATURDAY NOVEMBER 19TH, 2016 - JAMES IRVINE CONFERENCE CENTER
 
 Time | Description
+---------------|-------------------------
 8:45 - 9:30 am | Check-in & Breakfast
 9:30 - 10:00 am | Opening Remarks
 10:00 - 12:00 pm | Intro & Advanced Sessions
