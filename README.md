@@ -66,7 +66,8 @@ Instructional videos for step by step installation guides:
 
 ###Intro Sessions:
 
-Introduction to Machine Learning with Luis Serrano, PhD
+Introduction to Machine Learning with Luis Serrano, PhD.
+![Luis Serrano, PhD.](/img/luis.jpg)
 
 [Demystifying Deep Learning Presentation](https://drive.google.com/file/d/0BwM5tQny1YZUQ2xEMzJOSEJMWU0/view?usp=sharing)
 
@@ -74,6 +75,7 @@ Introduction to Machine Learning with Luis Serrano, PhD
 
 
 Numpy, Scikit Learn, & Intro to Deep Learning using Tensorflow with Abhishek Sharma
+![Abhishek Sharma](/img/abhishek.jpg)
 
 [Machine Learning & Deep Learning Presentation](https://drive.google.com/file/d/0B7ndnLaJmtblaE53LVU0ZU9BbnM/view?usp=sharing)
 
@@ -85,6 +87,8 @@ Numpy, Scikit Learn, & Intro to Deep Learning using Tensorflow with Abhishek Sha
 
 
 Intro to Deep Learning for Images in Keras with Stephan Egly & Malaikannan Sankarasubbu
+![Stephan Egly](/img/stephane.jpg)
+![Malaikannan Sankarasubbu](/img/malaikannan.jpg)
 
 [Deep Learning with the Holberton School](https://github.com/holbertonschool/deep-learning)
 
@@ -95,15 +99,16 @@ Intro to Deep Learning for Images in Keras with Stephan Egly & Malaikannan Sanka
 ###Advanced Sessions:
 
 Internal workings of a convnet and the process of implementing it on Spark with Jeremy Nixon
+![Jeremy Nixon](/img/jeremy.jpg)
 
 
 Overfitting and regularisation in Machine learning with Dmytro Lituiev
-
+![Dmytro Lituiev](/img/Dmytro.jpg)
 [Overfitting and Regularization](https://github.com/DSLituiev/teaching/tree/master/regularization)
 
 
 Classifying images using DCNN in Keras with Sujit Pal
-
+![Sujit Pal](/img/sujit.jpg)
 [Transfer Learning and Fine Tuning for Cross Domain Image Classification with Keras Presentation](http://www.slideshare.net/sujitpal/transfer-learning-and-fine-tuning-for-cross-domain-image-classification-with-keras)
 
 [Github Repo](https://github.com/sujitpal/fttl-with-keras)
@@ -112,19 +117,19 @@ Classifying images using DCNN in Keras with Sujit Pal
 
 
 Deep Learning for Recommendation Systems with Rumman Chowdry
-
+![Rumman Chowdry](/img/rumman.jpg)
 [Demystifying Recommendation Systems](http://www.slideshare.net/rummanc/demystifying-recommendation-systems?ref=http://www.rummanchowdhury.com/readme/)
 
 
 In depth look at Word2Vec with Andy Zhang
-
+![Andy Zhang](/img/andy.jpg)
 [Word2Vec Deconstructed (and Simplified) Slides](https://github.com/ZhangBanger/workshops/blob/master/Word2Vec%20Deconstructed%20%26%20Simplified.ipynb)
 
 [Word2Vec Workshop Lecture Notes](http://zhangbanger.github.io/2016/11/22/word2vec-workshop-lecture-notes.html)
 
 
 Exploding / Vanishing Gradient Problem with Alex Shim
-
+![Alex Shim](/img/alex.jpg)
 [The exploding and vanishing gradient problem and LSTMs Slides](https://drive.google.com/file/d/0BwM5tQny1YZUT0JYNlNUc3d2T1hfT1A4Rzd3NjRDaGdsbzQ0/view?usp=sharing)
 
 
@@ -132,17 +137,18 @@ Exploding / Vanishing Gradient Problem with Alex Shim
 ###Lightning Talks:
 
 Did Big Data Fail us in the Presidential Election? with Rumman Chowdhury
-
+![Rumman Chowdhury](/img/rumman.jpg)
 [Slides](https://drive.google.com/file/d/0BwM5tQny1YZUeUI4TnVVQ3FCRGM/view?usp=sharing)
 
 [Summary Blog Post](http://www.rummanchowdhury.com/readme/2016/12/11/did-big-data-fail-us-in-the-presidential-election)
 
 Using convolutional neural networks to classify Monet Paintings with Samuel Bozek
-
+![Samuel Bozek](/img/sam.jpg)
 
 Developing chatbots with AI with Masha Kubyshina
-
+![Masha Kubyshina](/img/masha.jpg)
 [Chatbots](https://drive.google.com/file/d/0BwM5tQny1YZUYTF3TktrSFhxdXJjS0NKMzM4cC1nQV9SbGZB/view?usp=sharing)
 
 
 Incorporating ML into Robotics & Computer Vision with Carlos Uranga
+![Carlos Uranga](/img/carlos.jpg)
