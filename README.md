@@ -10,10 +10,7 @@ JOIN US for an all weekend, hands on workshop series Demystifying Deep Learning 
 
 Learn how to use the latest AI open source platforms including:
 
--SciKit
--Tensor Flow
--ConvNetJS
--Keras
+- [SciKit](http://scikit-learn.org/stable/) | [Tensor Flo](https://www.tensorflow.org/) | [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) | [Keras](https://keras.io/) -
 
 
 Network & Mingle with PhD students, faculty members, and industry research scientists. Share your projects and vision for the future of Deep Learning & Artificial Intelligence.
@@ -204,6 +201,7 @@ A case study with word2vec, a commonly used technique for pre-training word embe
 **Exploding / Vanishing Gradient Problem with Alex Shim**
 
 *Abstract*
+
 DEEP DIVE INTO THE VANISHING/EXPLODING GRADIENT PROBLEM
 
 This talk is an in-depth explanation of Long Short-Term Memory and how they solve the vanishing/exploding gradient problem.
@@ -237,6 +235,7 @@ CNN'S FOR FINE ART CLASSIFICATION
 
 This talk will describe the use of convolutional neural networks to classify Monet Paintings.
 
+[Slides](http://www.slideserve.com/SamBozek/show-me-the-monet)
 
 
 **Developing chatbots with AI with Masha Kubyshina**
