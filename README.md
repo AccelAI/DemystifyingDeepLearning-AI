@@ -112,12 +112,14 @@ Instructional videos for step by step installation guides:
 
 
 ![Jeremy Nixon](/img/jeremy.jpg)
+
 **Internal workings of a convnet and the process of implementing it on Spark with Jeremy Nixon**
 
 
 
 
 ![Dmytro Lituiev](/img/Dmytro.jpg)
+
 **Overfitting and regularisation in Machine learning with Dmytro Lituiev**
 
 [Overfitting and Regularization](https://github.com/DSLituiev/teaching/tree/master/regularization)
@@ -126,6 +128,7 @@ Instructional videos for step by step installation guides:
 
 
 ![Sujit Pal](/img/sujit.jpg)
+
 **Classifying images using DCNN in Keras with Sujit Pal**
 
 [Transfer Learning and Fine Tuning for Cross Domain Image Classification with Keras Presentation](http://www.slideshare.net/sujitpal/transfer-learning-and-fine-tuning-for-cross-domain-image-classification-with-keras)
@@ -138,6 +141,7 @@ Instructional videos for step by step installation guides:
 
 
 ![Rumman Chowdry](/img/rumman.jpg)
+
 **Deep Learning for Recommendation Systems with Rumman Chowdry**
 
 [Demystifying Recommendation Systems](http://www.slideshare.net/rummanc/demystifying-recommendation-systems?ref=http://www.rummanchowdhury.com/readme/)
@@ -146,6 +150,7 @@ Instructional videos for step by step installation guides:
 
 
 ![Andy Zhang](/img/andy.jpg)
+
 **In depth look at Word2Vec with Andy Zhang**
 
 [Word2Vec Deconstructed (and Simplified) Slides](https://github.com/ZhangBanger/workshops/blob/master/Word2Vec%20Deconstructed%20%26%20Simplified.ipynb)
@@ -156,6 +161,7 @@ Instructional videos for step by step installation guides:
 
 
 ![Alex Shim](/img/alex.jpg)
+
 **Exploding / Vanishing Gradient Problem with Alex Shim**
 
 [The exploding and vanishing gradient problem and LSTMs Slides](https://drive.google.com/file/d/0BwM5tQny1YZUT0JYNlNUc3d2T1hfT1A4Rzd3NjRDaGdsbzQ0/view?usp=sharing)
@@ -167,6 +173,7 @@ Instructional videos for step by step installation guides:
 
 
 ![Rumman Chowdhury](/img/rumman.jpg)
+
 **Did Big Data Fail us in the Presidential Election? with Rumman Chowdhury**
 
 [Slides](https://drive.google.com/file/d/0BwM5tQny1YZUeUI4TnVVQ3FCRGM/view?usp=sharing)
@@ -176,11 +183,13 @@ Instructional videos for step by step installation guides:
 
 
 ![Samuel Bozek](/img/sam.jpg)
+
 **Using convolutional neural networks to classify Monet Paintings with Samuel Bozek**
 
 
 
 ![Masha Kubyshina](/img/masha.jpg)
+
 **Developing chatbots with AI with Masha Kubyshina**
 
 [Chatbots](https://drive.google.com/file/d/0BwM5tQny1YZUYTF3TktrSFhxdXJjS0NKMzM4cC1nQV9SbGZB/view?usp=sharing)
@@ -189,4 +198,5 @@ Instructional videos for step by step installation guides:
 
 
 ![Carlos Uranga](/img/carlos.jpg)
+
 **Incorporating ML into Robotics & Computer Vision with Carlos Uranga**
