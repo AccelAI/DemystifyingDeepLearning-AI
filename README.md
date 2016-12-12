@@ -10,7 +10,7 @@ JOIN US for an all weekend, hands on workshop series Demystifying Deep Learning 
 
 Learn how to use the latest AI open source platforms including:
 
-- [SciKit](http://scikit-learn.org/stable/) | [Tensor Flo](https://www.tensorflow.org/) | [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) | [Keras](https://keras.io/) -
+[SciKit](http://scikit-learn.org/stable/) | [Tensor Flo](https://www.tensorflow.org/) | [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) | [Keras](https://keras.io/)
 
 
 Network & Mingle with PhD students, faculty members, and industry research scientists. Share your projects and vision for the future of Deep Learning & Artificial Intelligence.
