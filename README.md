@@ -1,3 +1,5 @@
+Workshop Hosted by [ACCEL.AI](http://accel.ai)
+
 #DEMYSTIFYING DEEP LEARNING & AI - NOV 19TH-20TH, 2016
 
 Artificial Intelligence and Deep Learning are the current buzzwords of the tech industry. So, have you been wondering what all the fuss is about?
@@ -87,6 +89,7 @@ A friendly and pictorial dive into solving classification problems with deep lea
 **Numpy, Scikit Learn, & Intro to Deep Learning using Tensorflow with Abhishek Sharma**
 
 *Abstracts*
+
 HANDS ON ML
 
 Learn to use ML algorithms in your applications. In this session we will cover basics of numpy (a python library used for mathematical operations) and then move on to implementing ML algorithms using sci-kit learn.
@@ -260,14 +263,14 @@ What is a robot? Why is A.I. important in personal robotics? We now have the abi
 
 ![Samuel Bozek](/img/sam.jpg)
 
-**SAMUEL BOZEK - DATA SCIENTIST**
+[**SAMUEL BOZEK - DATA SCIENTIST**](https://www.linkedin.com/in/sambozek)
 
 Sam Bozek is a Canadian Chemist who loves alliteration and art. He decided to use computers to help with the art thing, after being a chemist ruined too many pant legs.
 
 
 ![Rumman Chowdhury](/img/rumman.jpg)
 
-**RUMMAN CHOWDHURY - METIS**
+[**RUMMAN CHOWDHURY - METIS**](https://www.linkedin.com/in/rumman)
 
 Rumman is a Senior Data Scientist at Metis and PhD Candidate in Political Science at the University of California, San Diego. Masters in Quantitative Methods from Columbia University and undergraduate degrees from MIT.
 
@@ -278,51 +281,51 @@ She uses her study of human behavior in forecasting and the social sciences to i
 
 ![Stephan Egly](/img/stephane.jpg)
 
-**STÉPHANE EGLY - DATALOG.AI**
+[**STÉPHANE EGLY - DATALOG.AI**](https://www.linkedin.com/in/eglystephane)
 
 Stephane is passionate about solving problems that are important to society and social progress. He has a uniquely varied background, having worked on four different continents, as a Space Operations Engineer, Professor of Applied Physics, and Software Entrepreneur. As an AI Scientist at datalog.ai, his current obsession is modeling the acoustics of human speech for Deep Learning applications.
 
 ![Masha Kubyshina](/img/masha.jpg)
 
-**MASHA KUBYSHINA - BLUEWORDAI**
+[**MASHA KUBYSHINA - BLUEWORDAI**](https://www.linkedin.com/in/masha-kubyshina-salvado-a0b3918)
 
 Masha's background is in Marketing, Customer Development and Linguistics. She started working on a personalized English learning tool with AI backend in 2014. In fall this year her team developed a bot to help people improve their English.
 
 ![Dmytro Lituiev](/img/Dmytro.jpg)
 
-**DMYTRO LITUIEV - UCSF**
+[**DMYTRO LITUIEV - UCSF**](https://www.linkedin.com/in/dlituiev)
 
 Dima Lituiev does human genetics research at the UCSF, co-organizes a Deep Learning Study Group, and occasionally teaches data science. Born in Ukraine, Dima did his PhD at the University of Zurich, Switzerland, where he analysed images and built model of development of plant flower parts. His interests are in probabilistic models, machine learning, genetics, and developmental biology.
 
 ![Jeremy Nixon](/img/jeremy.jpg)
 
-**JEREMY NIXON - SPARK TECHNOLOGY CENTER**
+[**JEREMY NIXON - SPARK TECHNOLOGY CENTER**](https://www.linkedin.com/in/jeremyvnixon)
 
 Jeremy is a machine learning engineer dedicated to understanding the principles underlying information and intelligence and deploying them in meaningful real world applications. He has been working on deep learning in Apache Spark's MLlib since he graduated from Harvard in Applied Mathematics and Computer Science.
 
 ![Sujit Pal](/img/sujit.jpg)
 
-**SUJIT PAL - ELSEVIER**
+[**SUJIT PAL - ELSEVIER**](https://www.linkedin.com/in/sujitpal)
 
 Sujit builds intelligent systems around research content. His primary interests are IR, NLP, ML, DL, ontologies and distributed processing. Prior to this, he built ontology backed semantic search, contextual advertising and EMR analytics for consumer healthcare.
 
 
 ![Malaikannan Sankarasubbu](/img/malaikannan.jpg)
 
-**MALAIKANNAN SANKARASUBBU - DATALOG.AI**
+[**MALAIKANNAN SANKARASUBBU - DATALOG.AI**](https://www.linkedin.com/in/malaikannan)
 
 Malai is the Founder and CTO at Datalog.ai, where he loves to take on the challenges of unstructured data. He actively works on Natural Language Processing and Computer Vision problems, with applications in conversational agents and health. He loves high performance computing, and trains Deep Learning models on GPUs to keep his home warm in the winter.
 
 
 ![Luis Serrano, PhD.](/img/luis.jpg)
 
-**LUIS SERRANO, PHD - UDACITY**
+[**LUIS SERRANO, PHD - UDACITY**](https://www.linkedin.com/in/luisgserrano)
 
 Luis Serrano is the Machine Learning Nanodegree Lead at Udacity. Previously he was a Machine Learning Engineer at Google for 2 years, working on the video recommendations at YouTube. Before that, he was an academic, and was working as a postdoctoral fellow in Mathematics at the University of Quebec at Montreal. Luis obtained his PhD in Mathematics at the University of Michigan, and his Bachelors and Masters in Mathematics at the University of Waterloo.
 
 ![Abhishek Sharma](/img/abhishek.jpg)
 
-**ABHISHEK SHARMA - METAMIND**
+[**ABHISHEK SHARMA - METAMIND**](https://www.linkedin.com/in/abhishek21sharma)
 
 Organizer of Deep Learning Enthusiasts Meetup Group and a backend engineer at Metamind. He received his Master’s in Computer Science (AI track) from University of Illinois at Urbana Champaign (UIUC). His interests include Deep Learning, Natural Language Processing and large-scale Machine Learning.
 
@@ -330,13 +333,13 @@ He worked with Prof. ChengXiang Zhai, UIUC, on discovering controversial points 
 
 ![Alex Shim](/img/alex.jpg)
 
-**ALEX SHIM - RESEARCH CONSULTANT, DATA SCIENTIST**
+[**ALEX SHIM - RESEARCH CONSULTANT, DATA SCIENTIST**](https://www.linkedin.com/in/alex-shim-b309531)
 
 Alex studied theoretical mathematics at the California Institute of Technology, then went into educational research. He has worked as the last few years as a research consultant for academic resesrch and data scientist consultant for businesses, and is now specializing in deep learning research.
 
 ![Carlos Uranga](/img/carlos.jpg)
 
-**CARLOS URANGA - SINGULARITY UNIVERSITY**
+[**CARLOS URANGA - SINGULARITY UNIVERSITY**](https://www.linkedin.com/in/carlosuranga)
 
 Carlos' most recent endeavors are using Deep Learning (A.I.) in two of his startups (Biofabs, LUSH Robotics) - coupling algorithms and massively parallel computing to mimic the very neural networks that govern the behavior of what our brains do best - pattern recognition. Carlos is a serial entrepreneur, leading and advising startups as founder/ developer/ product manager/ instructor. His passion is one of leveraging converging disciplines, and harnessing the power of distributed innovation & digital fabrication - and putting them to work in robotics. Most recently he was the Director of the Innovation Lab ( iLab) at Singularity University (SU) where he served the mission to educate and empower present and future leaders towards leveraging exponential technologies.
 
@@ -344,6 +347,6 @@ Carlos has always prescribed to the SU mindset, in that everyone should inspire 
 
 ![Andy Zhang](/img/andy.jpg)
 
-**ANDY ZHANG - DATA SCIENTIST**
+[**ANDY ZHANG - DATA SCIENTIST**](https://www.linkedin.com/in/zhangandyx)
 
 Self-taught software engineer with wide variety of experiences in frontend, mobile, distributed systems, data engineering, and machine learning. Avid student of new deep learning techniques and excited about applying recently published methods to applications in NLP and gaming.
