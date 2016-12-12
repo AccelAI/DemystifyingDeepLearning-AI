@@ -44,7 +44,11 @@ Time | Description
 1:00 - 5:00 pm | Intro & Advanced Sessions
 5:00 - 5:30 pm | Closing Remarks
 
-##Collection of Presentation materials from workshops hosted by Accel.ai
+[PDF Schedule of Sessions](http://pub.lucidpress.com/d7931aa8-c31b-4587-8c1d-af648de05ac4/#J.HX9tFxcBmX)
+
+[**Workshop Photos**](https://photos.google.com/share/AF1QipOYP-AK3-ue797XfOs1-2bXKOnFi8AIdr2043KLmuZTvchbfXAcAAJaNF5gKscACw?key=bG40RWdRcjhsVWtlMGt2aURlUmFOcFNMbDM3ZFhn)
+
+##Collection of Presentation Materials
 
 ###Pre-workshop Materials:
 
