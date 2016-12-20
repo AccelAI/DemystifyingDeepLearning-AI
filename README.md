@@ -10,7 +10,7 @@ JOIN US for an all weekend, hands on workshop series Demystifying Deep Learning 
 
 Learn how to use the latest AI open source platforms including:
 
-[SciKit](http://scikit-learn.org/stable/) | [Tensor Flo](https://www.tensorflow.org/) | [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) | [Keras](https://keras.io/)
+[SciKit](http://scikit-learn.org/stable/) | [Tensor Flow](https://www.tensorflow.org/) | [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) | [Keras](https://keras.io/)
 
 
 Network & Mingle with PhD students, faculty members, and industry research scientists. Share your projects and vision for the future of Deep Learning & Artificial Intelligence.
@@ -137,7 +137,7 @@ ELEGANCE OF CNNS IN PRACTICAL APPLICATIONS
 
 Convolutional Neural Networks are as elegant as they are tremendously successful in practical applications. This talk will demonstrate how they operate at a low level, and then provide a number of diverse viewpoints on interpreting their performance. Those views will include manifold learning, representation learning, automating feature engineering and more.
 
-
+[Understanding Convolutional Neural Networks Slides](http://www.slideshare.net/JeremyNixon/understanding-convolutional-neural-networks)
 
 
 **Overfitting and regularisation in Machine learning with Dmytro Lituiev**
