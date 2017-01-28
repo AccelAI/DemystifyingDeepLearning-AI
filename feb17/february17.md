@@ -214,11 +214,11 @@ Keras is a minimalisitc Python Deep Learning library that works on top of Tensor
 
 ![Abhishek Sharma](/img/abhishek.jpg)
 
-[**ABHISHEK SHARMA - METAMIND / SALESFORCE**](https://www.linkedin.com/in/abhishek21sharma)
+[**ABHISHEK SHARMA - Backend Engineer @ METAMIND / SALESFORCE**](https://www.linkedin.com/in/abhishek21sharma)
 
-Organizer of Deep Learning Enthusiasts Meetup Group and a backend engineer at Metamind. He received his Master’s in Computer Science (AI track) from University of Illinois at Urbana Champaign (UIUC). His interests include Deep Learning, Natural Language Processing and large-scale Machine Learning.
+>Organizer of Deep Learning Enthusiasts Meetup Group and a backend engineer at Metamind. He received his Master’s in Computer Science (AI track) from University of Illinois at Urbana Champaign (UIUC). His interests include Deep Learning, Natural Language Processing and large-scale Machine Learning.
 
-He worked with Prof. ChengXiang Zhai, UIUC, on discovering controversial points in news articles by leveraging social media conversations. He was the recipient of the Cognitive Science/Artificial Intelligence Award – 2014, awarded by the Computer Science Department, UIUC
+>He worked with Prof. ChengXiang Zhai, UIUC, on discovering controversial points in news articles by leveraging social media conversations. He was the recipient of the Cognitive Science/Artificial Intelligence Award – 2014, awarded by the Computer Science Department, UIUC
 
 Topics Covering:
 
