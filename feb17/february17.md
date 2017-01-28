@@ -98,14 +98,17 @@ Instructional videos for step by step installation guides:
 
 [**Ashish Bansal - Senior Director, Data Science @ Capital One**](https://www.linkedin.com/in/bansalashish/)
 
-Visionary big data science professional focused on building data science teams and machine learning products at scale. 16+ years of industry experience in building companies and teams, ramping up revenue and delivery of products and projects across geographies.
-• Building new data products and new revenue streams from these products at Capital One
-• Built the big data science team at Gale, big data team at Sapient Nitro, and QA team at Sapient Nitro
-• Built Alchemy (marketing automation) and Unchained (integrated CMS) products at Gale. Built ADX B2B travel product at travel startup
+>Visionary big data science professional focused on building data science teams and machine learning products at scale. 16+ years of industry experience in building companies and teams, ramping up revenue and delivery of products and projects across geographies.
 
-16+ years of work experience is supplemented by an MBA from Kellogg School of Management, Northwestern University Chicago. I also hold a bachelor’s degree of technology in Electronics Engineering from IIT Varanasi.
+>• Building new data products and new revenue streams from these products at Capital One
 
-Specialties: Business & Technology Strategy, Digital Marketing Technologies, Big Data Science (Spark/MLLib/Hadoop/Hive/Mahout/Predictive Analytics), New Technologies, Data driven marketing, Technology Management, Cloud and SaaS strategies, Digital marketing platforms
+>• Built the big data science team at Gale, big data team at Sapient Nitro, and QA team at Sapient Nitro
+
+>• Built Alchemy (marketing automation) and Unchained (integrated CMS) products at Gale. Built ADX B2B travel product at travel startup
+
+>16+ years of work experience is supplemented by an MBA from Kellogg School of Management, Northwestern University Chicago. I also hold a bachelor’s degree of technology in Electronics Engineering from IIT Varanasi.
+
+>Specialties: Business & Technology Strategy, Digital Marketing Technologies, Big Data Science (Spark/MLLib/Hadoop/Hive/Mahout/Predictive Analytics), New Technologies, Data driven marketing, Technology Management, Cloud and SaaS strategies, Digital marketing platforms
 
 Topic:
 
@@ -117,7 +120,7 @@ Topic:
 
 [**Emily Barry - Data Scientist @ LegalServer**](www.emilyinamillion.me)
 
-Emily is a Data Scientist for LegalServer, building classifiers that help connect the underserved with legal advice.  She cut her teeth in data science on a project topic modeling every Supreme Court case since 1760, and is passionate about exploring how law and government can benefit from AI and compelling data storytelling.
+>Emily is a Data Scientist for LegalServer, building classifiers that help connect the underserved with legal advice.  She cut her teeth in data science on a project topic modeling every Supreme Court case since 1760, and is passionate about exploring how law and government can benefit from AI and compelling data storytelling.
 
 Topic:
 
@@ -128,13 +131,13 @@ We know that the best policies are based on data, but what about algorithms? Mac
 
 [**Rumman Chowdhury - Senior Manager of AI @ Accenture**](http://www.rummanchowdhury.com/)
 
-Rumman's passion lies at the intersection of artificial intelligence and humanity. She comes to data science from a quantitative social science background. Currently, she is a Senior Manager at Accenture, working on cutting edge applications of Artificial Intelligence. Additionally, she serves on the Board of Directors for three AI startups.
+>Rumman's passion lies at the intersection of artificial intelligence and humanity. She comes to data science from a quantitative social science background. Currently, she is a Senior Manager at Accenture, working on cutting edge applications of Artificial Intelligence. Additionally, she serves on the Board of Directors for three AI startups.
 
-She holds two undergraduate degrees from MIT, and a Masters in Quantitative Methods of the Social Sciences from Columbia University. I am near completion of my PhD from the University of California, San Diego.
+>She holds two undergraduate degrees from MIT, and a Masters in Quantitative Methods of the Social Sciences from Columbia University. I am near completion of my PhD from the University of California, San Diego.
 
-More recently, she has emerged as a thought leader in the San Francisco Data Science community, with talks and tutorials at Intel Analytics Conference, Open Data Science Conference, Machine Learning Conference, Women Catalysts, PyBay, and Demystifying AI Conference.
+>More recently, she has emerged as a thought leader in the San Francisco Data Science community, with talks and tutorials at Intel Analytics Conference, Open Data Science Conference, Machine Learning Conference, Women Catalysts, PyBay, and Demystifying AI Conference.
 
-In mainstream media, she has been interviewed for the PHDivas podcast, German Public Television, and fashion line MM LaFleur. In 2017, she has upcoming talks at the Global Artificial Intelligence Conference, at Strata + Hadoop San Jose, Southern Data Science Conference, and Strata + Hadoop London.
+>In mainstream media, she has been interviewed for the PHDivas podcast, German Public Television, and fashion line MM LaFleur. In 2017, she has upcoming talks at the Global Artificial Intelligence Conference, at Strata + Hadoop San Jose, Southern Data Science Conference, and Strata + Hadoop London.
 
 Topic:
 
@@ -146,15 +149,15 @@ Topic:
 
 [**Jack C Crawford - CEO & Founder @ Datalog.ai**](https://www.linkedin.com/in/jackcrawford)
 
-Jack leads a startup that provides a conversational AI platform for enterprise applications, software OEMs, and consumer facing bots that support customer engagement at scale.
+>Jack leads a startup that provides a conversational AI platform for enterprise applications, software OEMs, and consumer facing bots that support customer engagement at scale.
 
-Over his career, he has bootstrapped three technology firms. Rey Consulting, Inc., which was named Oracle's leading middle-market reseller in North America was merged into to Computer Technology Associates as the Internet began to create new value organizations and consumers. In his next adventure, he joined a startup where he led the development of an enterprise online file sharing service that was subsequently acquired by AOL. They were a bit early, as this the "first Dropbox."
+>Over his career, he has bootstrapped three technology firms. Rey Consulting, Inc., which was named Oracle's leading middle-market reseller in North America was merged into to Computer Technology Associates as the Internet began to create new value organizations and consumers. In his next adventure, he joined a startup where he led the development of an enterprise online file sharing service that was subsequently acquired by AOL. They were a bit early, as this the "first Dropbox."
 
-His next firm began as a seed venture and pivoted into another bootstrapped firm. At Managed Ventures, he built a team where they developed an advanced application for chemical informatics and early drug discovery.
+>His next firm began as a seed venture and pivoted into another bootstrapped firm. At Managed Ventures, he built a team where they developed an advanced application for chemical informatics and early drug discovery.
 
-And now, with private capital funding of $3M (https://www.crunchbase.com/organization/datalog-ai), he has kicked off datalog.ai, a firm that has already taken a leadership position in transformational AI.
+>And now, with private capital funding of $3M (https://www.crunchbase.com/organization/datalog-ai), he has kicked off datalog.ai, a firm that has already taken a leadership position in transformational AI.
 
-He believes in the power of a new way of looking at advancing technology. We can all help democratize Artificial Intelligence. It need not be a replacement for the way businesses or non-profit causes operate. Rather he sees AI as Additional Intelligence®– a platform that provides a foundation for increased value. Value for all of us.
+>He believes in the power of a new way of looking at advancing technology. We can all help democratize Artificial Intelligence. It need not be a replacement for the way businesses or non-profit causes operate. Rather he sees AI as Additional Intelligence®– a platform that provides a foundation for increased value. Value for all of us.
 
 Topic:
 
@@ -166,7 +169,7 @@ How to identify an opportunity for predictive AI within a business. Also, 3 thin
 
 [**Stefan Kojouharov - Founder @ ChatbotsLife**](https://www.linkedin.com/in/stefankojouharov)
 
-Founder @Chatbot's Life where we help companies build great bots and share our insights along the way. We have consulted many of the most popular bot companies like Swelly, Instavest, OutBrain, NearGroup and more. Chatbot's Life has become the go to place for anyone who wants to build a better chatbot.
+>Founder @Chatbot's Life where we help companies build great bots and share our insights along the way. We have consulted many of the most popular bot companies like Swelly, Instavest, OutBrain, NearGroup and more. Chatbot's Life has become the go to place for anyone who wants to build a better chatbot.
 
 Topic:
 
@@ -178,7 +181,7 @@ Topic:
 
 [**Chandan Maruthi - Founder @ Walnut.ai**](www.walnutai.com)
 
-Founder at WalnutAI, we use AI and NLP methods to extract insights from public data to help professionals learn skills. Have founded Storrz.com and been a product director at a bay area data company.
+>Founder at WalnutAI, we use AI and NLP methods to extract insights from public data to help professionals learn skills. Have founded Storrz.com and been a product director at a bay area data company.
 
 Topic:
 
@@ -189,7 +192,7 @@ Topic:
 
 [**Nimay Parekh Head of North America @ ViSenze**](https://www.linkedin.com/in/nimayx)
 
-Nimay Parekh currently heads North American operations for ViSenze, a top global visual search company, known for its services in computer vision and deep learning. Priror to joining ViSenze, Nimay headed Product Strategy, Marketing and Partnerships for NASA based HaloDrop and was a co-founder of MIT Media Lab based Belleds Technologies. Nimay has worked with JP Morgan Chase and Factset Research Systems in New York, London and Dubai. He is a TEDx speaker, a fellow of the Clinton Foundation and has a Masters in Business Administration from INSEAD and Artificial Intelligence from Singularity University.
+>Nimay Parekh currently heads North American operations for ViSenze, a top global visual search company, known for its services in computer vision and deep learning. Priror to joining ViSenze, Nimay headed Product Strategy, Marketing and Partnerships for NASA based HaloDrop and was a co-founder of MIT Media Lab based Belleds Technologies. Nimay has worked with JP Morgan Chase and Factset Research Systems in New York, London and Dubai. He is a TEDx speaker, a fellow of the Clinton Foundation and has a Masters in Business Administration from INSEAD and Artificial Intelligence from Singularity University.
 
 Topic:
 
@@ -202,7 +205,7 @@ Topic:
 
 [**Malaikannan Sankarasubbu - CTO & Founder @ DATALOG.AI**](https://www.linkedin.com/in/malaikannan)
 
-Malai is the Founder and CTO at Datalog.ai, where he loves to take on the challenges of unstructured data. He actively works on Natural Language Processing and Computer Vision problems, with applications in conversational agents and health. He loves high performance computing, and trains Deep Learning models on GPUs to keep his home warm in the winter.
+>Malai is the Founder and CTO at Datalog.ai, where he loves to take on the challenges of unstructured data. He actively works on Natural Language Processing and Computer Vision problems, with applications in conversational agents and health. He loves high performance computing, and trains Deep Learning models on GPUs to keep his home warm in the winter.
 
 Topic:
 
@@ -233,7 +236,7 @@ Topics Covering:
 
 [**Dr. Ming-Hwa Wang Adjunct Professor @ Santa Clara University & Lead Engineer at Cisco**](https://www.linkedin.com/in/ming-hwa-wang-48558b)
 
-Dr. Ming-Hwa received a Ph.D in computer science and has had a complete working experience of over 20 years (include engineer, lead, manager, director at different hi-tech companies in Silicon Valley, and also co-founded a startup and served as the VP of R&D). Other than hands-on expertise, he also teaches at the Graduate School of the Department of Computer Engineering at Santa Clara University as an adjunct professor, the courses he has taught include big data, machine learning, data mining, information retrieval, natural language processing, semantic web, artificial intelligence, cloud computing, etc.
+>Dr. Ming-Hwa received a Ph.D in computer science and has had a complete working experience of over 20 years (include engineer, lead, manager, director at different hi-tech companies in Silicon Valley, and also co-founded a startup and served as the VP of R&D). Other than hands-on expertise, he also teaches at the Graduate School of the Department of Computer Engineering at Santa Clara University as an adjunct professor, the courses he has taught include big data, machine learning, data mining, information retrieval, natural language processing, semantic web, artificial intelligence, cloud computing, etc.
 
 Topic:
 
