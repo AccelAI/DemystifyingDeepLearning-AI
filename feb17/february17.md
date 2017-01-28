@@ -93,6 +93,25 @@ Instructional videos for step by step installation guides:
 
 ##Speakers
 
+![Aman Ahuja](/img/aman.jpg)
+
+[**Aman Ahuja - Data Consultant**](https://www.linkedin.com/in/amanahuja)
+
+>I help clients design and implement data products and machine learning systems.
+
+>With a background in engineering and physics, I worked for several years at a consulting firm that focused on content management systems, taking on roles as a project manager, business analyst, and data engineer.
+
+>Since 2011, I've been a freelance consultant, combining my technical skills and business experience to contribute to data products that have a strong social impact. My clients have included startups and Fortune 500 companies, in industries including energy, finance, tech, non-profit and healthcare.
+
+>I am an affiliate at The Data Guild (thedataguild.com), a team of creative professionals committed to developing data products to serve our clients strategic priorities. I have enjoyed working as project lead and senior data scientist on multiple projects with TDG since 2013.
+
+>I am a founder of the San Francisco Bay Area chapter of DataKind (datakind.org), a non-profit dedicated to helping NGOs and other organizations tackle data science problems. In my third year as chapter leader, I'm focused on developing processes and leadership structures that lead to successful, sustainable projects.
+
+>I enjoy craft beer and reading essays about non-popular science. I live in Oakland, California, and often work from home.
+
+Topic:
+
+*Designing Machine Learning Systems to Drive Business
 
 ![Ashish Bansal](/img/ashish.jpg)
 
