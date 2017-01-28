@@ -1,6 +1,6 @@
 Events Hosted by [ACCEL.AI](http://accel.ai)
 
-[![Workshops](Artificial Intelligence & Deep Learning Workshops/0.jpg)](https://www.youtube.com/watch?v=0yMbcc2v1lg "Artificial Intelligence & Deep Learning Workshops")
+[![Workshops](/img/cover.jpg)](https://www.youtube.com/watch?v=0yMbcc2v1lg "Artificial Intelligence & Deep Learning Workshops")
 
 
 ##Demystifying Deep Learning & Artificial Intelligence Series
