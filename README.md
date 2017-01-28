@@ -1,9 +1,10 @@
 Events Hosted by [ACCEL.AI](http://accel.ai)
 
-[![Workshops](/img/cover.jpg)](https://www.youtube.com/watch?v=0yMbcc2v1lg "Artificial Intelligence & Deep Learning Workshops")
-
 
 ##Demystifying Deep Learning & Artificial Intelligence Series
+
+[![Workshops](/img/cover.jpg)](https://www.youtube.com/watch?v=0yMbcc2v1lg "Artificial Intelligence & Deep Learning Workshops")
+
 
 
 ###November 19th - 20th, 2016 - James Irvince Conference Center
@@ -34,7 +35,9 @@ TBA
 
 
 
-##Startup Weekend AI | AR | VR - Kapor Center for Social Impace
+##Startup Weekend AI | AR | VR - Kapor Center for Social Impact
+
+![Startup Weekend Group Photo](/img/sw1-17.jpg)
 
 ###January 13th - 15th, 2017 Kapor Center for Social Impact
 
