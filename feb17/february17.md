@@ -251,7 +251,7 @@ Topics Covering:
 *Lab Session: Tensor Flow install & Problem Sets
 
 
-
+![Dr. Ming-Hwa Wang](/img/mhw.jpg)
 
 [**Dr. Ming-Hwa Wang Adjunct Professor @ Santa Clara University & Lead Engineer at Cisco**](https://www.linkedin.com/in/ming-hwa-wang-48558b)
 
