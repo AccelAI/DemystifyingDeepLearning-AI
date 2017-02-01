@@ -211,11 +211,11 @@ Topic:
 
 [**Nimay Parekh Head of North America @ ViSenze**](https://www.linkedin.com/in/nimayx)
 
->Nimay Parekh currently heads North American operations for ViSenze, a top global visual search company, known for its services in computer vision and deep learning. Priror to joining ViSenze, Nimay headed Product Strategy, Marketing and Partnerships for NASA based HaloDrop and was a co-founder of MIT Media Lab based Belleds Technologies. Nimay has worked with JP Morgan Chase and Factset Research Systems in New York, London and Dubai. He is a TEDx speaker, a fellow of the Clinton Foundation and has a Masters in Business Administration from INSEAD and Artificial Intelligence from Singularity University.
+>Nimay Parekh currently heads North American operations for ViSenze, a top global visual search company, known for its services in computer vision and deep learning. Prior to joining ViSenze, Nimay headed Product Strategy, Marketing and Partnerships for NASA based HaloDrop and was a co-founder of MIT Media Lab based Belleds Technologies. Nimay has worked with JP Morgan Chase and Factset Research Systems in New York, London and Dubai. He is a TEDx speaker, a fellow of the Clinton Foundation and has a Masters in Business Administration from INSEAD and Artificial Intelligence from Singularity University.
 
 Topic:
 
-*Rise of Artificial Intelligence Industry
+*Rise of the Artificial Intelligence Industry
 
 
 
