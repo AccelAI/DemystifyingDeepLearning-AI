@@ -137,7 +137,7 @@ Topic:
 
 ![Emily Barry](/img/emily.jpg)
 
-[**Emily Barry - Data Scientist @ LegalServer**](www.emilyinamillion.me)
+[**Emily Barry - Data Scientist @ LegalServer**](http://www.emilyinamillion.me/)
 
 >Emily is a Data Scientist for LegalServer, building classifiers that help connect the underserved with legal advice.  She cut her teeth in data science on a project topic modeling every Supreme Court case since 1760, and is passionate about exploring how law and government can benefit from AI and compelling data storytelling.
 
