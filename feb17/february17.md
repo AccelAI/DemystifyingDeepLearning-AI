@@ -54,7 +54,7 @@ Time | Description
 10:00 - 12:00 pm | Intro & Advanced Sessions
 12:00 - 1:30 pm | Lunch is Provided
 1:00 - 4:30 pm | Intro & Advanced Sessions
-6:30 - 9:00 pm |  Networking Reception @ Darling's Elixers
+5:00 - 7:00 pm |  Networking Reception @ Darling's Elixers
 
 
 SUNDAY February 5th, 2016 - JAMES IRVINE CONFERENCE CENTER
