@@ -69,6 +69,8 @@ Time | Description
 4:00 - 4:30 pm | Closing Remarks
 
 
+###Final Schedule
+[Schedule Brochure](DDL&AIFinalSched.pdf)
 
 
 ##Collection of Presentation Materials
