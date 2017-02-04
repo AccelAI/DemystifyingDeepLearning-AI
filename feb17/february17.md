@@ -198,7 +198,7 @@ Topic:
 
 ![Chandan Maruthi](/img/chandan.jpg)
 
-[**Chandan Maruthi - Founder @ Walnut.ai**](www.walnutai.com)
+[**Chandan Maruthi - Founder @ Walnut.ai**](https://www.linkedin.com/in/chandanmaruthi)
 
 >Founder at WalnutAI, we use AI and NLP methods to extract insights from public data to help professionals learn skills. Have founded Storrz.com and been a product director at a bay area data company.
 
