@@ -26,6 +26,7 @@ Events Hosted by [ACCEL.AI](http://accel.ai)
 
 -[Workshop & Presenter Materials](/feb17/february17.md)
 
+-[PDF Schedule of Sessions](/feb17/DDL&AIFinalSched.jpg)
 
 
 ###March 24th - 25th, 2017 - Oslo, Norway
