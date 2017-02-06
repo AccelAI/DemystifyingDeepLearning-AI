@@ -234,6 +234,7 @@ Topic:
 
 *Rise of the Artificial Intelligence Industry
 
+###[Slide Deck](https://drive.google.com/file/d/0B5S9_hdLh22jemNLem9POVJVcENPRl9RNWx2MVV0VG8zc09j/view?usp=sharing)
 
 
 
