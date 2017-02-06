@@ -115,7 +115,7 @@ Topic:
 
 *Designing Machine Learning Systems to Drive Business
 
-[Slide Deck](Bit.ly/acceltalkaman)
+###[Slide Deck](Bit.ly/acceltalkaman)
 
 
 
@@ -139,7 +139,7 @@ Topic:
 
 *TensorFlow 201: How to organize code and use TensorBoard for debugging NNs
 
-[Slide Deck](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jRm00NkcyQ3VhQy1FVlZzR21DUE9reDRTWmdJ/view?usp=sharing)
+###[Slide Deck](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jRm00NkcyQ3VhQy1FVlZzR21DUE9reDRTWmdJ/view?usp=sharing)
 
 
 
@@ -153,9 +153,10 @@ Topic:
 
 We know that the best policies are based on data, but what about algorithms? Machine learning provides a massive opportunity to leverage existing data to research larger social trends - and we’ve only scratched the surface of how law and government can benefit from this. In this talk, we’ll discuss applying data science in this context, and how we as Data Scientists can positively impact the adoption of data science in law and government through public-facing projects.
 
-Presenter Materials:
-[Slide Deck](https://docs.google.com/presentation/d/1FCyqLsxLG3IFPbccqVBRj9jrUfmuC9GXPc0Fo7Nvnuw/edit#slide=id.g35f391192_00)
-[Supreme Court Topics Overtime Visualization](https://github.com/emilyinamillion/supreme-court-topics-overtime)
+
+###[Slide Deck](https://docs.google.com/presentation/d/1FCyqLsxLG3IFPbccqVBRj9jrUfmuC9GXPc0Fo7Nvnuw/edit#slide=id.g35f391192_00)
+
+###[Supreme Court Topics Overtime Visualization](https://github.com/emilyinamillion/supreme-court-topics-overtime)
 
 
 
@@ -195,7 +196,7 @@ Topic:
 
 How to identify an opportunity for predictive AI within a business. Also, 3 things needed to successfully deliver these new capabilities to business owners.
 
-[Slide Deck](http://www.slideshare.net/jackccrawford/a-brief-history-of-artificial-intelligence-for-business)
+###[Slide Deck](http://www.slideshare.net/jackccrawford/a-brief-history-of-artificial-intelligence-for-business)
 
 
 ![Stefan Kojouharov](/img/stefan.jpg)
@@ -244,10 +245,11 @@ Topic:
 
 Topic:
 
-*[Intro into Keras and Image Classification](https://github.com/malaikannan/Talks)
+*Intro into Keras and Image Classification
 
 Keras is a minimalisitc Python Deep Learning library that works on top of TensorFlow or Theano. It helps to quickly prototype Deep Learning models, and works seamlessly with both CPUs and GPUs. In this talk you will learn about how to build a simple image classification model using Keras.
 
+###[Intro into Keras and Image Classification](https://github.com/malaikannan/Talks)
 
 
 ![Abhishek Sharma](/img/abhishek.jpg)
@@ -267,7 +269,7 @@ Topics Covering:
 *Lab Session: Tensor Flow install & Problem Sets
 
 
-[Github with Slides and Code](https://github.com/abhi21/intro_to_ml_dl)
+###[Github with Slides and Code](https://github.com/abhi21/intro_to_ml_dl)
 
 
 ![Dr. Ming-Hwa Wang](/img/mhw.jpg)
