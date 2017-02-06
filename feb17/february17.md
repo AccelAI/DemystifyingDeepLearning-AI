@@ -115,6 +115,10 @@ Topic:
 
 *Designing Machine Learning Systems to Drive Business
 
+[Slide Deck](Bit.ly/acceltalkaman)
+
+
+
 ![Ashish Bansal](/img/ashish.jpg)
 
 [**Ashish Bansal - Senior Director, Data Science @ Capital One**](https://www.linkedin.com/in/bansalashish/)
@@ -135,6 +139,8 @@ Topic:
 
 *TensorFlow 201: How to organize code and use TensorBoard for debugging NNs
 
+[Slide Deck](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jRm00NkcyQ3VhQy1FVlZzR21DUE9reDRTWmdJ/view?usp=sharing)
+
 
 
 ![Emily Barry](/img/emily.jpg)
@@ -146,6 +152,11 @@ Topic:
 Topic:
 
 We know that the best policies are based on data, but what about algorithms? Machine learning provides a massive opportunity to leverage existing data to research larger social trends - and we’ve only scratched the surface of how law and government can benefit from this. In this talk, we’ll discuss applying data science in this context, and how we as Data Scientists can positively impact the adoption of data science in law and government through public-facing projects.
+
+Presenter Materials:
+[Slide Deck](https://docs.google.com/presentation/d/1FCyqLsxLG3IFPbccqVBRj9jrUfmuC9GXPc0Fo7Nvnuw/edit#slide=id.g35f391192_00)
+[Supreme Court Topics Overtime Visualization](https://github.com/emilyinamillion/supreme-court-topics-overtime)
+
 
 
 ![Rumman Chowdhury](/img/rumman.jpg)
@@ -184,6 +195,7 @@ Topic:
 
 How to identify an opportunity for predictive AI within a business. Also, 3 things needed to successfully deliver these new capabilities to business owners.
 
+[Slide Deck](http://www.slideshare.net/jackccrawford/a-brief-history-of-artificial-intelligence-for-business)
 
 
 ![Stefan Kojouharov](/img/stefan.jpg)
@@ -207,6 +219,8 @@ Topic:
 Topic:
 
 *Analyzing 100K job postings with NLP
+
+
 
 
 ![Nimay Parekh](/img/nimay.jpg)
@@ -251,6 +265,9 @@ Topics Covering:
 *Numpy, Scikit Learn, & Intro to Deep Learning using Tensorflow
 
 *Lab Session: Tensor Flow install & Problem Sets
+
+
+[Github with Slides and Code](https://github.com/abhi21/intro_to_ml_dl)
 
 
 ![Dr. Ming-Hwa Wang](/img/mhw.jpg)
