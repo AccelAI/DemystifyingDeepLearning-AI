@@ -176,7 +176,7 @@ Topic:
 
 *Ethics in Artificial Intelligence
 
-
+###[Slide Deck](https://drive.google.com/file/d/0B971Pf8qGtfOTlZRVjZScWt3bWM/view?usp=sharing)
 
 ![Jack Crawford](/img/jack.jpg)
 
