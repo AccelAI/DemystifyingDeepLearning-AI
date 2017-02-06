@@ -115,7 +115,7 @@ Topic:
 
 *Designing Machine Learning Systems to Drive Business
 
-###[Slide Deck](Bit.ly/acceltalkaman)
+###[Slide Deck](https://docs.google.com/presentation/d/11n7yG4CV6htCANPdBPyDVyI0tFf3mbCuTlhyVviGZiU/edit?usp=sharing)
 
 
 
