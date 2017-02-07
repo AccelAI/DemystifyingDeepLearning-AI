@@ -221,7 +221,7 @@ Topic:
 
 *Analyzing 100K job postings with NLP
 
-
+###[Slide Deck](https://drive.google.com/file/d/0B5S9_hdLh22jWTZQYWFuYm9heThGUnY1dEswODIybWVaNXRB/view?usp=sharing)
 
 
 ![Nimay Parekh](/img/nimay.jpg)
