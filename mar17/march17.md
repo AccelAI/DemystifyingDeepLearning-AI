@@ -142,3 +142,14 @@ Topics Covering:
 
 
 ###[Github with Slides and Code](https://github.com/abhi21/intro_to_ml_dl)
+
+
+##Partners
+
+![Accel.ai](/img/accelai.png)
+
+![Nordic Impact](/img/nordicimpact.png)
+
+![Sintef](/img/sintef.png)
+
+![Noroff](/img/noroff.png)
