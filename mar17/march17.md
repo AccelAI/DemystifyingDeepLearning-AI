@@ -72,7 +72,7 @@ Instructional videos for step by step installation guides:
 
 ##Speakers
 
-![Rumman Chowdhury](/img/rumman.jpg)
+![Rumman Chowdhury](/img/chowdhury.png)
 
 [**Rumman Chowdhury - Senior Manager of AI @ Accenture**](http://www.rummanchowdhury.com/)
 
@@ -99,9 +99,9 @@ This talk will cover an overview of different types of recommender systems, with
 
 >Simon's research investigates the activity of genetics, evolution, epidemiology and other naturally occurring systems that exhibit novel, emergent phenomena are not easily explained by traditional methods. His research addresses this through the production of animated, agent-based software models which visualise such emergent phenomena and the more general scientific principles which underpin their activity. This work currently reaches audiences through science centres, public engagement events and out-reach into schools and we are now seeking to extend the scope and the impact of this work.
 
+![Laura Montoya](/img/montoya.png)
 
-
-![LAURA MONTOYA - FOUNDER & CEO @ ACCEL.AI](https://about.me/lauranmontoya)
+[LAURA MONTOYA - FOUNDER & CEO @ ACCEL.AI](https://about.me/lauranmontoya)
 
 >Laura is the Founder and CEO at Accel.ai. She has been described as a natural and versatile leader with a passion for Artificial Intelligence, Computer Science, Research, and Psychology. Her personal interests include growth & empowerment, diversity, and community outreach.
 
@@ -115,7 +115,7 @@ This talk will cover an overview of different types of recommender systems, with
 
 
 
-![Luis Serrano, PhD.](/img/luis.jpg)
+![Luis Serrano, PhD.](/img/serrano.png)
 
 [**LUIS SERRANO, PHD - UDACITY**](https://www.linkedin.com/in/luisgserrano)
 
@@ -124,7 +124,7 @@ This talk will cover an overview of different types of recommender systems, with
 
 
 
-![Abhishek Sharma](/img/abhishek.jpg)
+![Abhishek Sharma](/img/sharma.png)
 
 [**ABHISHEK SHARMA - Backend Engineer @ METAMIND / SALESFORCE**](https://www.linkedin.com/in/abhishek21sharma)
 
