@@ -93,6 +93,26 @@ This talk will cover an overview of different types of recommender systems, with
 *Ethics in Artificial Intelligence
 
 
+[**SIMON LYNCH - PRINCIPAL LECTURER @ TEESSIDE UNIVERSITY](https://www.tees.ac.uk/schools/scm/staff_profile_details.cfm?staffprofileid=U0020379)
+
+>Dr. Simon Lynch is a Principal Lecturer in the School of Computing. Simon has worked at the School for 25 years with breaks to work in Sri Lanka and in Botswana. Simon's interests include international development, artificial intelligence and complexity.
+
+>Simon's research investigates the activity of genetics, evolution, epidemiology and other naturally occurring systems that exhibit novel, emergent phenomena are not easily explained by traditional methods. His research addresses this through the production of animated, agent-based software models which visualise such emergent phenomena and the more general scientific principles which underpin their activity. This work currently reaches audiences through science centres, public engagement events and out-reach into schools and we are now seeking to extend the scope and the impact of this work.
+
+
+
+![LAURA MONTOYA - FOUNDER & CEO @ ACCEL.AI](https://about.me/lauranmontoya)
+
+>Laura is the Founder and CEO at Accel.ai. She has been described as a natural and versatile leader with a passion for Artificial Intelligence, Computer Science, Research, and Psychology. Her personal interests include growth & empowerment, diversity, and community outreach.
+
+>Laura graduated from High School at age 16 and worked full time to put herself through college, earning a Bachelor's Degree in Biology, Physical Science, Human Development & Diversity.
+
+>Her professional experience includes Research and Project Management, for such noteable organizations as University of Michigan Hospital, ChemTrend, and the Mathematical Sciences Research Institute. She opted for a more technically challenging career and became a Software Engineer by completing an accelerated bootcamp program which taught web development in Ruby, Rails, and Javascript. Since then she has worked as an engineer at one of the largest Tech companies in Silicon Valley, Intuit.
+
+>Most recently, she has begun specializing in Artificial Intelligence and has founded the first Accelerated program to train Artificial Intelligence Engineers. She is self taught in Python, Machine Learning, and Deep Learning techniques.
+
+>Laura organizes and hosts weekly meetup groups of the [Deep Learning Enthusiasts](https://www.meetup.com/AI-Deep-Learning-Enthusiasts-Meetup/) reviewing the latest lectures and research in Artificial Intelligence. She is a Director with [Women Who Code](https://www.womenwhocode.com/), a global non-profit dedicated to inspiring women to excel in technology careers. She also founded and maintains a monthly reading group, [TechLore](https://www.techlore.org/), which focuses on literature that addresses empowerment, entrepreneurship, culture, social justice, and inclusion through the lense of technology.
+
 
 
 ![Luis Serrano, PhD.](/img/luis.jpg)
