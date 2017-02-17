@@ -45,7 +45,7 @@ Tickets are not sold out yet. [Sign up before it is too late!](https://www.picat
 
 ##Agenda
 
-SATURDAY February 4th, 2016 - JAMES IRVINE CONFERENCE CENTER
+SATURDAY February 4th, 2017 - JAMES IRVINE CONFERENCE CENTER
 
 Time | Description
 ---------------|-------------------------
@@ -57,7 +57,7 @@ Time | Description
 5:00 - 7:00 pm |  Networking Reception @ Darling's Elixers
 
 
-SUNDAY February 5th, 2016 - JAMES IRVINE CONFERENCE CENTER
+SUNDAY February 5th, 2017 - JAMES IRVINE CONFERENCE CENTER
 
 Time | Description
 ---------------|------------------------------

@@ -29,9 +29,13 @@ Events Hosted by [ACCEL.AI](http://accel.ai)
 -[PDF Schedule of Sessions](/feb17/DDL&AIFinalSched.jpg)
 
 
-###March 24th - 25th, 2017 - Oslo, Norway
+###March 24th - 25th, 2017 - Noroff Oslo, Norway
 
-TBA
+-[Registration](https://www.eventbrite.com/e/demystifying-deep-learning-and-ai-tickets-31992339950?ref=estw)
+
+-[Facebook Event Page](https://www.facebook.com/events/182357712251288/?notif_t=plan_user_invited&notif_id=1487192879928740)
+
+-[Workshop & Presenter Materials](/mar17/march17.md)
 
 
 
