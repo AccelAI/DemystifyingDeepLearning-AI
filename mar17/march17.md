@@ -48,8 +48,33 @@ Time | Description
 4:00 - 4:30 pm | Closing Remarks
 
 
+##Women in Artificial Intelligence Scholarship Fund
 
-##Collection of Presentation Materials
+In an effort to lower the barriers to entry for underrepresented women in Artificial Intelligence, we have created a Scholarship Fund. Recipients of this Scholarship will receive free entry for the weekend, and if they are traveling from abroad, travel and hotel accommodations will be provided for them.
+
+If you are interested in contributing to the scholarship fund, please select the **"Women in AI Scholarship Fund Donation"** ticket to make your contribution. If you have contributed and would like to be listed as a sponsor, please submit your details on this [Sponsor Registration Form](https://lauranmontoya.typeform.com/to/xfhniF).
+
+
+###Sponsorship Tiers:
+
+*Bronze* - KR2,200 ($245usd)
+Covers free entry for one local recipient.
+
+*Silver* - KR4,400 ($490usd)
+Covers free entry for up to two local recipients.
+
+*Gold* - KR8,800 ($979usd)
+Covers free entry for up to four local recipients.
+
+*Platinum* - KR17,983 ($2,000usd)
+Covers free entry, travel, and hotel accomodations for up to one foreign recipient.
+
+*Premier Platinum* - KR35,966 ($4,000usd) +
+Covers free entry, travel, and hotel accomodations for multiple foreign recipients.
+
+
+
+##Speaker & Presentation Materials
 
 ###Pre-workshop Materials:
 
@@ -144,12 +169,18 @@ Topics Covering:
 ###[Github with Slides and Code](https://github.com/abhi21/intro_to_ml_dl)
 
 
+##Sponsors
+
+###Platinum
+[![Datalog.ai](/img/datalog.png)](http://www.datalog.ai/)
+
+
 ##Partners
 
-![Accel.ai](/img/accelai.png)
+[![Accel.ai](/img/accelai.png)](http://www.accel.ai)
 
-![Nordic Impact](/img/nordicimpact.png)
+[![Nordic Impact](/img/nordicimpact.png)](http://www.nordicimpact.no/)
 
-![Sintef](/img/sintef.png)
+[![Sintef](/img/sintef.png)](https://www.sintef.no/en/)
 
-![Noroff](/img/noroff.png)
+[![Noroff](/img/noroff.png)](https://www.noroff.no/en/)
