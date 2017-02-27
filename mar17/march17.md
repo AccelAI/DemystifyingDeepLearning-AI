@@ -52,6 +52,8 @@ Time | Description
 
 In an effort to lower the barriers to entry for underrepresented women in Artificial Intelligence, we have created a Scholarship Fund. Recipients of this Scholarship will receive free entry for the weekend, and if they are traveling from abroad, travel and hotel accommodations will be provided for them.
 
+[Apply for the Scholarship!](http://bit.ly/WinArtificialIntelligence)
+
 If you are interested in contributing to the scholarship fund, please select the **"Women in AI Scholarship Fund Donation"** ticket to make your contribution. If you have contributed and would like to be listed as a sponsor, please submit your details on this [Sponsor Registration Form](https://lauranmontoya.typeform.com/to/xfhniF).
 
 
@@ -170,6 +172,12 @@ Topics Covering:
 
 
 ##Sponsors
+
+###Gold
+[![Nordic Impact](/img/nordicimpact.png)](http://www.nordicimpact.no/)
+
+[![Noroff](/img/noroff.png)](https://www.noroff.no/en/)
+
 
 ###Platinum
 [![Datalog.ai](/img/datalog.png)](http://www.datalog.ai/)
