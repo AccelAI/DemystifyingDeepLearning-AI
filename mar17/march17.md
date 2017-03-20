@@ -1,4 +1,4 @@
-#DEMYSTIFYING DEEP LEARNING & AI - March 24th-26th, 2017
+#DEMYSTIFYING DEEP LEARNING & AI - March 24th-25th, 2017
 
 ![Workshop Banner](img/DDL&AI_Banner.jpg)
 
@@ -10,10 +10,14 @@ Are you incorporating AI into your products, but have no idea where to start?
 
 Are you letting terms like big data or differential calculus equations intimidate you from being a part of the leading edge of this technology?
 
-JOIN US for an all weekend, hands on workshop on March 24th - 26th at Noroff Education´s campus in Oslo, where you will gain an insight and hear industry specialists discuss the topic of “Demystifying Deep Learning & AI”.
+
+**JOIN US** for an all weekend, hands on workshop on March 24th - 25th at Noroff Education´s campus in Oslo, where you will gain an insight and hear industry specialists discuss the topic of “Demystifying Deep Learning & AI”.
 
 
-Attendees of our workshop gain FREE access to the [Extreme Tech Challenge 2017](http://extremetechchallenge.com/) Opening Night Party Saturday March 25th!!
+
+
+Attendees of our workshop gain **FREE** access to the [Extreme Tech Challenge 2017](http://extremetechchallenge.com/) Opening Night Party Saturday March 25th!!
+
 
 
 Tickets are not sold out yet. [Sign up before it is too late!](https://www.eventbrite.com/e/demystifying-deep-learning-and-ai-tickets-31992339950?ref=estw)
