@@ -254,4 +254,4 @@ Topic: Co-Hosting
 
 [![Noroff](/img/noroff.png)](https://www.noroff.no/en/)
 
-[![Itera](/img/itera.png)](http://www.itera.no/)
+[![Itera](/img/itera_sm.png)](http://www.itera.no/)
