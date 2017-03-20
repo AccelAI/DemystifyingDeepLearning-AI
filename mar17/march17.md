@@ -255,3 +255,5 @@ Topic: Co-Hosting
 [![Noroff](/img/noroff.png)](https://www.noroff.no/en/)
 
 [![Itera](/img/itera_sm.png)](http://www.itera.no/)
+
+[![Katapult Accelerator](/img/KA_Logo_Blue_sm.png)](http://www.itera.no/)
