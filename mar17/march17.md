@@ -19,7 +19,12 @@ FRIDAY March 24th, 2017 - Noroff Oslo
 
 Time | Description
 ---------------|-------------------------
-6:00 - 8:30 pm | Software Installation Session
+5:00 - 5:30 pm | Check-in and Opening Remarks
+5:30 - 6:30 pm | Mathematics for Artificial Intelligence with Ingvild Lyckander, Senior Consultant & Practice Lead Machine Learning @BEKK
+6:30 - 7:30 pm | Test Your Ideas with Scikit-learn with Hakkon Dissen, Technology Analyst @ Itera
+7:30 - 8:30 pm | Algorithms Colab Session with Laura Montoya, Founder @ Accel.ai
+
+
 
 
 
@@ -29,23 +34,20 @@ Time | Description
 ---------------|-------------------------
 9:00 - 9:30 am | Check-in & Breakfast
 9:30 - 10:00 am | Opening Remarks
-10:00 - 12:00 pm | Intro & Advanced Sessions
-12:00 - 1:30 pm | Lunch is Provided
-1:00 - 4:30 pm | Intro & Advanced Sessions
-5:00 - 7:00 pm |  Networking Reception
+10:00 - 11:00 am | Practical Applications of Artificial Intelligence with Mai Tran, Big Data Architect & Data Scientist @ IBM
+11:00 - 12:00 pm | Deep Learning for Reccomendation Systems in TensorFlow with Rumman Chowdhurry, Senior Manager of AI @ Accenture
+12:00 - 1:00 pm | Lunch is Provided
+1:00 - 2:00 pm | Scaleable Applications of AI & the Relationship between Data Capture Systems and AI with Ross Hunt, CFO & Cofounder @ Cainthus
+2:00 - 2:30 pm | Agent Based Models & Symbolic Artificial Intelligence with Simon Lynch, Principal Lecturer @ Teesside University
+2:30 - 4:00 pm | Lightning Talks & Closing Remarks
+
+
+7:30 - 8:00 pm |  Roundtable Discussion on Artificial Intelligence at Extreme Tech Challenge Grand Opening with Laura Montoya & Rumman Chowdhurry @ SALT Art - Music
+8:00 pm | Extreme Tech Challenge 2017/18 Grand Opening Party @ SALT Art - Music
 
 
 
-SUNDAY March 26th, 2017 - Noroff Oslo
 
-Time | Description
----------------|------------------------------
-9:00 - 9:30 am | Check-in & Breakfast
-9:30 - 10:00 am | Opening Remarks
-10:00 - 12:00 pm | Intro & Advanced Sessions
-12:00 - 1:30 pm |  Lunch is Provided
-1:00 - 4:00 pm | Intro & Advanced Sessions
-4:00 - 4:30 pm | Closing Remarks
 
 
 ##Women in Artificial Intelligence Scholarship Fund
@@ -99,6 +101,63 @@ Instructional videos for step by step installation guides:
 
 ##Speakers
 
+![Ingvild Lyckander](/img/imagesingvlid.png)
+
+[**Ingvild Lyckander - Senior Consultant & Practice Lead Machine Learning @BEKK**](https://www.linkedin.com/in/ingvild-lyckander-3224014a/)
+
+> Ingvild has a master of science in physics applied mathematics, and since she started as a consultant in BEKK Consulting she has had an interest for machine learning and ArtificiaI Intelligence. 
+
+Topic: Mathematics for Artificial Intelligence (Linear Algebra, Statistics, Calculus)
+
+
+![Hakkon Dissen, Technology Analyst @ Itera](img/imagesdissen.png)
+
+[**Hakkon Dissen, Technology Analyst @ Itera**](http://linkedin.com/in/h%C3%A5kon-dissen-63040013b)
+
+>Håkon is a developer working for Itera. He has a master's degree in computer science from NTNU Trondheim, focusing on Artificial Intelligence. Right now he is working on a recommendation system for one of Itera's clients.
+
+Topic: Test your ideas with scikit-learn
+
+Good tools for testing and tinkering are important to understand any subject.  
+
+Scikit-learn is an intuitive machine learning library for Python, leveraging Pythons flexibility with the speed of Scipy and Numpy to quickly get you up and running. Getting to know scikit-learn has been a fun and rewarding experience.
+
+In this talk I will explain various features of scikit-learn by going through some examples. I will also touch briefly on the building blocks of scikit. The goal of the talk is to get you started with machine learning, and hopefully have a little fun.
+
+There are no set-in-stone prerequisites for attending or understanding most of the content of this talk. However, some programming experience is highly recommended.
+
+Please feel free to bring a laptop if you want to follow along. 
+
+![Laura Montoya](/img/montoya.png)
+
+[LAURA MONTOYA - FOUNDER & CEO @ ACCEL.AI](https://about.me/lauranmontoya)
+
+>Laura is the Founder and CEO at Accel.ai. She has been described as a natural and versatile leader with a passion for Artificial Intelligence, Computer Science, Research, and Psychology. Her personal interests include growth & empowerment, diversity, and community outreach.
+
+>Laura graduated from High School at age 16 and worked full time to put herself through college, earning a Bachelor's Degree in Biology, Physical Science, Human Development & Diversity.
+
+>Her professional experience includes Research and Project Management, for such noteable organizations as University of Michigan Hospital, ChemTrend, and the Mathematical Sciences Research Institute. She opted for a more technically challenging career and became a Software Engineer by completing an accelerated bootcamp program which taught web development in Ruby, Rails, and Javascript. Since then she has worked as an engineer at one of the largest Tech companies in Silicon Valley, Intuit.
+
+>Most recently, she has begun specializing in Artificial Intelligence and has founded the first Accelerated program to train Artificial Intelligence Engineers. She is self taught in Python, Machine Learning, and Deep Learning techniques.
+
+>Laura organizes and hosts weekly meetup groups of the [Deep Learning Enthusiasts](https://www.meetup.com/AI-Deep-Learning-Enthusiasts-Meetup/) reviewing the latest lectures and research in Artificial Intelligence. She is a Director with [Women Who Code](https://www.womenwhocode.com/), a global non-profit dedicated to inspiring women to excel in technology careers. She also founded and maintains a monthly reading group, [TechLore](https://www.techlore.org/), which focuses on literature that addresses empowerment, entrepreneurship, culture, social justice, and inclusion through the lense of technology.
+
+Topics: Algorithm Co-lab Session & Artificial Intelligence Roundtable Discussion
+
+
+![Mai Tran, Big Data Architect & Data Scientist @ IBM](img/imagestran.png)
+
+[**Mai Tran, Big Data Architect & Data Scientist @ IBM**](https://www.linkedin.com/in/mtran3/)
+
+>Mai did her PhD in Type Theory and Open Semantics for current languages and distributed systems at UiO in Norway.  
+
+>After her PhD, she joined IBM, where she started to work as Big Data Architect and Data Scientist. She has was involved in a number of big data and cognitive projects including natural language processing, document retrieval and classification, Q&A systems, predictive analysis, and real-time fraud detection for Oil and Finance Industries. 
+
+>Her main interest lie in the areas of Big Data Analytics and Cognitive Computing. 
+
+Topic: Practical Applications of Artificial Intelligence
+
+
 ![Rumman Chowdhury](/img/chowdhury.png)
 
 [**Rumman Chowdhury - Senior Manager of AI @ Accenture**](http://www.rummanchowdhury.com/)
@@ -117,8 +176,19 @@ Topics:
 
 This talk will cover an overview of different types of recommender systems, with a focus on using deep learning for recommendation systems. Notable recent application areas are music recommendation, news recommendation, and session-based recommendation.
 
-*Ethics in Artificial Intelligence
+*Ethics in Artificial Intelligence (Lightning Talk)
 
+
+![Ross Hunt, CFO & Cofounder @ Cainthus](img/imageshunt-1.png)
+
+[**Ross Hunt, CFO & Cofounder @ Cainthus**](https://www.linkedin.com/in/ross-hunt-114686120/)
+
+> Ross is co-founder and CFO of Cainthus, a machine vision company that turns visual information into actionable data. He is a former a finance director of leading Irish cereal importer/ exporter Comex McKinnon. While at Comex, he created Flux BDS, a computer system that digitised all of Comex’s processes while automating much of the company’s administration, enabling the company to double both its volume of grain handled and its revenue. Ross is co-founder of Agrilarity, a company dedicated to improving efficiencies in agriculture through digitization and automation. He sits on the Exponential Advisory Board of Singularity University. 
+
+Topic: Scaleable Applications of AI & the Relationship between Data Capture Systems and AI
+
+
+![Simon Lynch](/img/imagessimon.png)
 
 [**SIMON LYNCH - PRINCIPAL LECTURER @ TEESSIDE UNIVERSITY](https://www.tees.ac.uk/schools/scm/staff_profile_details.cfm?staffprofileid=U0020379)
 
@@ -126,49 +196,21 @@ This talk will cover an overview of different types of recommender systems, with
 
 >Simon's research investigates the activity of genetics, evolution, epidemiology and other naturally occurring systems that exhibit novel, emergent phenomena are not easily explained by traditional methods. His research addresses this through the production of animated, agent-based software models which visualise such emergent phenomena and the more general scientific principles which underpin their activity. This work currently reaches audiences through science centres, public engagement events and out-reach into schools and we are now seeking to extend the scope and the impact of this work.
 
-![Laura Montoya](/img/montoya.png)
-
-[LAURA MONTOYA - FOUNDER & CEO @ ACCEL.AI](https://about.me/lauranmontoya)
-
->Laura is the Founder and CEO at Accel.ai. She has been described as a natural and versatile leader with a passion for Artificial Intelligence, Computer Science, Research, and Psychology. Her personal interests include growth & empowerment, diversity, and community outreach.
-
->Laura graduated from High School at age 16 and worked full time to put herself through college, earning a Bachelor's Degree in Biology, Physical Science, Human Development & Diversity.
-
->Her professional experience includes Research and Project Management, for such noteable organizations as University of Michigan Hospital, ChemTrend, and the Mathematical Sciences Research Institute. She opted for a more technically challenging career and became a Software Engineer by completing an accelerated bootcamp program which taught web development in Ruby, Rails, and Javascript. Since then she has worked as an engineer at one of the largest Tech companies in Silicon Valley, Intuit.
-
->Most recently, she has begun specializing in Artificial Intelligence and has founded the first Accelerated program to train Artificial Intelligence Engineers. She is self taught in Python, Machine Learning, and Deep Learning techniques.
-
->Laura organizes and hosts weekly meetup groups of the [Deep Learning Enthusiasts](https://www.meetup.com/AI-Deep-Learning-Enthusiasts-Meetup/) reviewing the latest lectures and research in Artificial Intelligence. She is a Director with [Women Who Code](https://www.womenwhocode.com/), a global non-profit dedicated to inspiring women to excel in technology careers. She also founded and maintains a monthly reading group, [TechLore](https://www.techlore.org/), which focuses on literature that addresses empowerment, entrepreneurship, culture, social justice, and inclusion through the lense of technology.
+Topic: Agent Based Models & Symbolic Artificial Intelligence
 
 
 
-![Luis Serrano, PhD.](/img/serrano.png)
+![Bertil Helseth, CEO @ Intelecy ](/img/imagesbertil.png)
 
-[**LUIS SERRANO, PHD - UDACITY**](https://www.linkedin.com/in/luisgserrano)
+[**Bertil Helseth, CEO @ Intelecy**](http://www.linkedin.com/in/bertil-helseth)
 
->Luis Serrano is the Machine Learning Nanodegree Lead at Udacity. Previously he was a Machine Learning Engineer at Google for 2 years, working on the video recommendations at YouTube. Before that, he was an academic, and was working as a postdoctoral fellow in Mathematics at the University of Quebec at Montreal. Luis obtained his PhD in Mathematics at the University of Michigan, and his Bachelors and Masters in Mathematics at the University of Waterloo.
+Bertil is Co-Founder and CEO of Intelecy. A new AI company working with manufacturing and process industry. 
+He has more then a decade of experience working with industrial control systems and cyber security for large enterprise customers. 
 
-
-
-
-![Abhishek Sharma](/img/sharma.png)
-
-[**ABHISHEK SHARMA - Backend Engineer @ METAMIND / SALESFORCE**](https://www.linkedin.com/in/abhishek21sharma)
-
->Organizer of Deep Learning Enthusiasts Meetup Group and a backend engineer at Metamind. He received his Master’s in Computer Science (AI track) from University of Illinois at Urbana Champaign (UIUC). His interests include Deep Learning, Natural Language Processing and large-scale Machine Learning.
-
->He worked with Prof. ChengXiang Zhai, UIUC, on discovering controversial points in news articles by leveraging social media conversations. He was the recipient of the Cognitive Science/Artificial Intelligence Award – 2014, awarded by the Computer Science Department, UIUC
-
-Topics Covering:
-
-*Intro to Machine Learning
-
-*Numpy, Scikit Learn, & Intro to Deep Learning using Tensorflow
-
-*Lab Session: Tensor Flow install & Problem Sets
+Topic: Artificial Intelligence in Factories (Lightning Talk)
 
 
-###[Github with Slides and Code](https://github.com/abhi21/intro_to_ml_dl)
+
 
 
 ##Sponsors
