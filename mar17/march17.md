@@ -118,7 +118,7 @@ Instructional videos for step by step installation guides:
 Topic: Mathematics for Artificial Intelligence (Linear Algebra, Statistics, Calculus)
 
 
-![Hakkon Dissen, Technology Analyst @ Itera](img/imagesdissen.png)
+![Hakkon Dissen, Technology Analyst @ Itera](/img/dissen.png)
 
 [**Hakkon Dissen, Technology Analyst @ Itera**](http://linkedin.com/in/h%C3%A5kon-dissen-63040013b)
 
@@ -153,7 +153,7 @@ Please feel free to bring a laptop if you want to follow along.
 Topics: Algorithm Co-lab Session & Artificial Intelligence Roundtable Discussion
 
 
-![Mai Tran, Big Data Architect & Data Scientist @ IBM](img/imagestran.png)
+![Mai Tran, Big Data Architect & Data Scientist @ IBM](/img/tran.png)
 
 [**Mai Tran, Big Data Architect & Data Scientist @ IBM**](https://www.linkedin.com/in/mtran3/)
 
@@ -187,7 +187,7 @@ This talk will cover an overview of different types of recommender systems, with
 *Ethics in Artificial Intelligence (Lightning Talk)
 
 
-![Ross Hunt, CFO & Cofounder @ Cainthus](img/imageshunt-1.png)
+![Ross Hunt, CFO & Cofounder @ Cainthus](/img/hunt.png)
 
 [**Ross Hunt, CFO & Cofounder @ Cainthus**](https://www.linkedin.com/in/ross-hunt-114686120/)
 
@@ -196,7 +196,7 @@ This talk will cover an overview of different types of recommender systems, with
 Topic: Scaleable Applications of AI & the Relationship between Data Capture Systems and AI
 
 
-![Simon Lynch](/img/imagessimon.png)
+![Simon Lynch](/img/simon.png)
 
 [**SIMON LYNCH - PRINCIPAL LECTURER @ TEESSIDE UNIVERSITY](https://www.tees.ac.uk/schools/scm/staff_profile_details.cfm?staffprofileid=U0020379)
 
@@ -208,7 +208,7 @@ Topic: Agent Based Models & Symbolic Artificial Intelligence
 
 
 
-![Bertil Helseth, CEO @ Intelecy ](/img/imagesbertil.png)
+![Bertil Helseth, CEO @ Intelecy ](/img/bertil.png)
 
 [**Bertil Helseth, CEO @ Intelecy**](http://www.linkedin.com/in/bertil-helseth)
 
@@ -217,6 +217,19 @@ He has more then a decade of experience working with industrial control systems 
 
 Topic: Artificial Intelligence in Factories (Lightning Talk)
 
+![Isabelle Ringnes](/img/ringnes)
+
+[**Isabelle Ringnes, CoFounder TENK: Tech-nettverket for Kvinner**](https://www.linkedin.com/in/isabelleringnes/)
+
+>Passionate about the intersection of technology, psychology and design. 
+Co-founder of TENK (Tech-Nettverket for Kvinner). Co-host of the podcast "20-30". Public speaker about leadership, women in tech and exponential technologies. 
+
+>My passion is people, and my skill is to lead, design and ship product. 
+
+>Product manager and user experience designer. 
+Self-starter and enthusiastic tech-geek.
+
+Topic: Co-Hosting
 
 
 
