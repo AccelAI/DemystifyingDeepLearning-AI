@@ -142,8 +142,6 @@ Please feel free to bring a laptop if you want to follow along.
 
 >Laura is the Founder and CEO at Accel.ai. She has been described as a natural and versatile leader with a passion for Artificial Intelligence, Computer Science, Research, and Psychology. Her personal interests include growth & empowerment, diversity, and community outreach.
 
->Laura graduated from High School at age 16 and worked full time to put herself through college, earning a Bachelor's Degree in Biology, Physical Science, Human Development & Diversity.
-
 >Her professional experience includes Research and Project Management, for such noteable organizations as University of Michigan Hospital, ChemTrend, and the Mathematical Sciences Research Institute. She opted for a more technically challenging career and became a Software Engineer by completing an accelerated bootcamp program which taught web development in Ruby, Rails, and Javascript. Since then she has worked as an engineer at one of the largest Tech companies in Silicon Valley, Intuit.
 
 >Most recently, she has begun specializing in Artificial Intelligence and has founded the first Accelerated program to train Artificial Intelligence Engineers. She is self taught in Python, Machine Learning, and Deep Learning techniques.
@@ -255,3 +253,5 @@ Topic: Co-Hosting
 [![Sintef](/img/sintef.png)](https://www.sintef.no/en/)
 
 [![Noroff](/img/noroff.png)](https://www.noroff.no/en/)
+
+[![Itera](/img/itera.png)](http://www.itera.no/)
