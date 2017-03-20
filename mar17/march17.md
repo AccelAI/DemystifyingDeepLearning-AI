@@ -109,7 +109,7 @@ Instructional videos for step by step installation guides:
 
 ##Speakers
 
-![Ingvild Lyckander](/img/imagesingvlid.png)
+![Ingvild Lyckander](/img/ingvild.png)
 
 [**Ingvild Lyckander - Senior Consultant & Practice Lead Machine Learning @BEKK**](https://www.linkedin.com/in/ingvild-lyckander-3224014a/)
 
