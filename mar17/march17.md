@@ -1,5 +1,7 @@
 #DEMYSTIFYING DEEP LEARNING & AI - March 24th-26th, 2017
 
+![Workshop Banner](img/DDL&AI_Banner.jpg)
+
 Artificial Intelligence and Deep Learning are the current buzzwords in the tech industry.
 
 Are you wondering what all the fuss is about?
