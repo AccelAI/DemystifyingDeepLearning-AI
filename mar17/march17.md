@@ -12,6 +12,10 @@ Are you letting terms like big data or differential calculus equations intimidat
 
 JOIN US for an all weekend, hands on workshop on March 24th - 26th at Noroff Education´s campus in Oslo, where you will gain an insight and hear industry specialists discuss the topic of “Demystifying Deep Learning & AI”.
 
+
+Attendees of our workshop gain FREE access to the [Extreme Tech Challenge 2017](http://extremetechchallenge.com/) Opening Night Party Saturday March 25th!!
+
+
 Tickets are not sold out yet. [Sign up before it is too late!](https://www.eventbrite.com/e/demystifying-deep-learning-and-ai-tickets-31992339950?ref=estw)
 
 
@@ -42,8 +46,6 @@ Time | Description
 1:00 - 2:00 pm | Scaleable Applications of AI & the Relationship between Data Capture Systems and AI with Ross Hunt, CFO & Cofounder @ Cainthus
 2:00 - 2:30 pm | Agent Based Models & Symbolic Artificial Intelligence with Simon Lynch, Principal Lecturer @ Teesside University
 2:30 - 4:00 pm | Lightning Talks & Closing Remarks
-
-
 7:30 - 8:00 pm |  Roundtable Discussion on Artificial Intelligence at Extreme Tech Challenge Grand Opening with Laura Montoya & Rumman Chowdhurry @ SALT Art - Music
 8:00 pm | Extreme Tech Challenge 2017/18 Grand Opening Party @ SALT Art - Music
 
