@@ -1,6 +1,6 @@
 #DEMYSTIFYING DEEP LEARNING & AI - March 24th-25th, 2017
 
-![Workshop Banner](img/DDL&AI_Banner.jpg)
+![Workshop Banner](/img/DDL&AI_Banner.jpg)
 
 Artificial Intelligence and Deep Learning are the current buzzwords in the tech industry.
 
@@ -25,7 +25,7 @@ Tickets are not sold out yet. [Sign up before it is too late!](https://www.event
 
 ##Agenda
 
-FRIDAY March 24th, 2017 - Noroff Oslo
+**FRIDAY March 24th, 2017 - Noroff Oslo**
 
 Time | Description
 ---------------|-------------------------
@@ -38,7 +38,7 @@ Time | Description
 
 
 
-SATURDAY March 25th, 2017 - Noroff Oslo
+**SATURDAY March 25th, 2017 - Noroff Oslo**
 
 Time | Description
 ---------------|-------------------------
