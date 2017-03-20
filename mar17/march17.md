@@ -217,7 +217,7 @@ He has more then a decade of experience working with industrial control systems 
 
 Topic: Artificial Intelligence in Factories (Lightning Talk)
 
-![Isabelle Ringnes](/img/ringnes)
+![Isabelle Ringnes](/img/ringnes.png)
 
 [**Isabelle Ringnes, CoFounder TENK: Tech-nettverket for Kvinner**](https://www.linkedin.com/in/isabelleringnes/)
 
