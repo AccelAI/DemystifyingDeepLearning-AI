@@ -48,8 +48,7 @@ Time | Description
 11:00 - 12:00 pm | Deep Learning for Reccomendation Systems in TensorFlow with Rumman Chowdhurry, Senior Manager of AI @ Accenture
 12:00 - 1:00 pm | Lunch is Provided
 1:00 - 2:00 pm | Scaleable Applications of AI & the Relationship between Data Capture Systems and AI with Ross Hunt, CFO & Cofounder @ Cainthus
-2:00 - 2:30 pm | Agent Based Models & Symbolic Artificial Intelligence with Simon Lynch, Principal Lecturer @ Teesside University
-2:30 - 4:00 pm | Lightning Talks & Closing Remarks
+2:00 - 4:00 pm | Lightning Talks & Closing Remarks
 7:30 - 8:00 pm |  Roundtable Discussion on Artificial Intelligence at Extreme Tech Challenge Grand Opening with Laura Montoya & Rumman Chowdhurry @ SALT Art - Music
 8:00 pm | Extreme Tech Challenge 2017/18 Grand Opening Party @ SALT Art - Music
 
