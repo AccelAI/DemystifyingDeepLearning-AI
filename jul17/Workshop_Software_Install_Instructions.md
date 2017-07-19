@@ -11,13 +11,17 @@ It is recommended that attendees install Python, Anaconda, Jupyter Notebook, Sci
  
 ## Mentoring Slack Channel
 We created a slack channel for easy communication and mentoring during the event. 
-Join Accel.AI Slack
-Join #demystify-ai-workshop
+
+-Join [Accel.AI Slack](https://slackpass.io/accelai)
+
+-Join #demystify-ai-workshop
  
 
 ## Quick Install Method
 
-We have prepared 2 Docker images (Python 2.7 & 3.6) as a quick install method.
+We have prepared Docker images (Python 2.7 & 3.6) with instructions as a quick install method.
+
+https://github.com/AccelAI/datascience-docker/blob/master/README.md
 
 
 ## Step by step instructions for software download and installation on Mac & Windows
@@ -97,13 +101,25 @@ For example:  conda create --prefix  ~\anaconda3\envs\myTFenv python=3.6.1 scipy
 
 ## Additional Presentation Specific Links or Setup
 
+### Intro to Machine Learning with George McIntire
 
-Word Embeddings Workshop with Rachel Thomas, PhD 
-Fork & Clone Github repo: word-embeddings-workshop
+-Fork & Clone Github repo: https://github.com/GeorgeMcIntire/intro_ml_presentation
 
-Building Chatbots with Michael Khait 
-Install the latest version of NodeJS (https://nodejs.org/en/download/)
-Create Facebook Developer Account (https://developers.facebook.com)
-Create Sample Facebook Page (https://www.facebook.com/pages/create/)
-Create Microsoft Account (https://dev.botframework.com/)
+### Word Embeddings Workshop with Rachel Thomas, PhD 
+
+-Fork & Clone Github repo: https://github.com/fastai/word-embeddings-workshop
+
+### Generating Text with Recurrent Neural Networks using Keras with Melissa Roemmele
+
+-Fork & Clone Github repo: https://github.com/roemmele/keras-rnn-demo
+
+### Building Chatbots with Michael Khait 
+
+-Install the latest version of NodeJS (https://nodejs.org/en/download/)
+
+-Create Facebook Developer Account (https://developers.facebook.com)
+
+-Create Sample Facebook Page (https://www.facebook.com/pages/create/)
+
+-Create Microsoft Account (https://dev.botframework.com/)
 
