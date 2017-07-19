@@ -1,13 +1,13 @@
 Events Hosted by [ACCEL.AI](http://accel.ai)
 
 
-##Demystifying Deep Learning & Artificial Intelligence Series
+## Demystifying Deep Learning & Artificial Intelligence Series
 
 [![Workshops](/img/cover.jpg)](https://www.youtube.com/watch?v=0yMbcc2v1lg "Artificial Intelligence & Deep Learning Workshops")
 
 
 
-###November 19th - 20th, 2016 - James Irvince Conference Center
+### November 19th - 20th, 2016 - James Irvince Conference Center
 
 -[Registration](https://www.eventbrite.com/e/demystifying-deep-learning-artificial-intelligence-tickets-28594070635#)
 
@@ -20,7 +20,7 @@ Events Hosted by [ACCEL.AI](http://accel.ai)
 
 
 
-###February 4th - 5th, 2017 - James Irvince Conference Center
+### February 4th - 5th, 2017 - James Irvince Conference Center
 
 -[Registration](https://www.picatic.com/accelai-Feb17)
 
@@ -29,7 +29,7 @@ Events Hosted by [ACCEL.AI](http://accel.ai)
 -[PDF Schedule of Sessions](/feb17/DDL&AIFinalSched.jpg)
 
 
-###March 24th - 25th, 2017 - Noroff Oslo, Norway
+### March 24th - 25th, 2017 - Noroff Oslo, Norway
 
 -[Registration](https://www.eventbrite.com/e/demystifying-deep-learning-and-ai-tickets-31992339950?ref=estw)
 
@@ -37,14 +37,24 @@ Events Hosted by [ACCEL.AI](http://accel.ai)
 
 -[Workshop & Presenter Materials](/mar17/march17.md)
 
+### June - Noroff Oslo, Norway
+
+
+### July 21st - 23rd, 2017 - Merritt College
+
+-[Event Details]()
+
+-[Workshop Software Download & Install Instructions](/jul17/)
+
+-[Registration]()
 
 
 
-##Startup Weekend AI | AR | VR - Kapor Center for Social Impact
+## Startup Weekend AI | AR | VR - Kapor Center for Social Impact
 
 ![Startup Weekend Group Photo](/img/sw1-17.jpg)
 
-###January 13th - 15th, 2017 Kapor Center for Social Impact
+### January 13th - 15th, 2017 Kapor Center for Social Impact
 
 -[Speakers, Schedule, Sponsors, and Registration](http://www.up.co/communities/usa/san-francisco/startup-weekend/10026)
 
