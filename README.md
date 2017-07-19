@@ -37,6 +37,16 @@ Events Hosted by [ACCEL.AI](http://accel.ai)
 
 -[Workshop & Presenter Materials](/mar17/march17.md)
 
+### June - Noroff Oslo, Norway
+
+
+### July 21st - 23rd, 2017 - Merritt College
+
+-[Event Details]()
+
+-[Workshop Software Download & Install Instructions](/jul17/)
+
+-[Registration]()
 
 
 
