@@ -1,5 +1,13 @@
 # DEMYSTIFYING DEEP LEARNING & AI
 
+Date: July 22nd - 23rd, 2017 8:30 am - 4:00 pm
+
+Location:
+Merritt College Civic Center
+12500 Campus Drive
+Oakland, CA 94619
+
+
 Data Scientist: The Sexiest Job of the 21st Century according to Harvard Business Review!
 
 Artificial Intelligence and Deep Learning are the current buzzwords of the tech industry. So, have you been wondering what all the fuss is about?
