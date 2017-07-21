@@ -28,15 +28,15 @@ https://github.com/AccelAI/datascience-docker/blob/master/README.md
 
 Package Documentation:
 
-Python - https://www.python.org/downloads/
+[*Python*](https://www.python.org/downloads/)
 
-Anaconda - https://docs.continuum.io/anaconda/install/
+[*Anaconda*](https://docs.continuum.io/anaconda/install/)
 
-Jupyter Notebook - http://jupyter.readthedocs.io/en/latest/install.html
+[*Jupyter Notebook*](http://jupyter.readthedocs.io/en/latest/install.html)
 
-Scikit Learn - http://scikit-learn.org/stable/install.html
+[*Scikit Learn*](http://scikit-learn.org/stable/install.html)
 
-Tensorflow - https://www.tensorflow.org/versions/r0.11/get_started/os_setup.html
+[*Tensorflow*](https://www.tensorflow.org/versions/r0.11/get_started/os_setup.html)
 
 
 
@@ -44,26 +44,33 @@ Tensorflow - https://www.tensorflow.org/versions/r0.11/get_started/os_setup.html
 
 ### Instructions for Mac:
 
- 1) Download (https://www.continuum.io/downloads) & install Anaconda.  
+ 1) [**Download**](https://www.continuum.io/downloads) & install Anaconda.  
      (We strongly recommend using python 3.6.1 version)
 
- 2) Open a terminal and  `cd` to your home directory (`cd ~/)
+ 2) Open a terminal and  `cd` to your home directory ( `cd ~/` )
 
- 3) Paste the following into the terminal and press [Enter] to start the environment installation:
-conda create --prefix ~/anaconda3/envs/<name of your environment> python=<version of python you want installed> scipy scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano
+ 3) Customzie & paste the following into the terminal and press **[Enter]** to start the environment installation:
+ 
+    `
+    conda create --prefix ~/anaconda3/envs/[name of your environment] python=[version of python you want installed] scipy     scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano
+    `
      
-For example:  conda create --prefix  ~/anaconda3/envs/myTFenv python=3.6.1 scipy scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano
+    **For example:**  _conda create --prefix  ~/anaconda3/envs/**myTFenv** python=**3.6.1** scipy scikit-learn nose readline
+                      pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano_
 
  4) Once the above has run successfully, there will be a message about activating the environment
 
- 5) source activate <_name of your environment_>
-      For example:   source activate myTFenv
+ 5) source activate [name of your environment]
+ 
+    **For example:** _source activate myTFenv_
 
 6)  your command-line prompt should change to reflect that you are in and active environment.
-    For example: (myTFenv)  My-MacBook-Pro: ~ myusername$
+
+    **For example:** _(myTFenv)  My-MacBook-Pro: ~ myusername$_
  
 7)  Once the environment is active and you are at the command prompt again, type:
-     pip install keras
+
+    `pip install keras`
 
 You should now be up and running and able to code, run examples, or launch a Jupyter Notebook.
 
@@ -73,30 +80,35 @@ _____________________________________________
 
 ### Instructions for Windows:
 
- 1) Download (https://www.continuum.io/downloads) & install Anaconda.  
-     We strongly recommend using python 3.6 version
-     TtensorFlow for python 2.7.13 is not supported on Windows)
+ 1) [**Download**](https://www.continuum.io/downloads) & install Anaconda. 
+     We strongly recommend using python 3.6 - **TensorFlow for python 2.7.x on is not available for Windows**
 
- 2) Open a command prompt (NOT PowerShell!) and `cd` to your home directory
-     ( cd  C:\Users\<your user name>)
+ 2) Open a command prompt (_**NOT PowerShell!**_) and `cd` to your home directory:
+    
+    `cd  C:\Users\[your user name]`
 
- 3) Paste the following into the terminal and press [Enter] to start the environment installation:
+ 3) Customize & Paste the following into the terminal and press **[Enter]** to start the environment installation:
 
-conda create --prefix ~\anaconda3\envs\<name of your environment> python=<version of python you want installed> scipy scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano
+   `
+   conda create --prefix ~\anaconda3\envs\[name of your environment] python=[version of python you want installed] scipy scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano
+   `
 
-For example:  conda create --prefix  ~\anaconda3\envs\myTFenv python=3.6.1 scipy scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano`
+**For example:**  _conda create --prefix  ~\anaconda3\envs\ **myTFenv** python= **3.6.1** scipy scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano_
 
 
  4) Once the above has run successfully, there will be a message about activating the environment
 
-5) activate <_name of your environment_>`
-     For example:  activate myTFenv
+5) activate [name of your environment]
+
+   **For example:**  _activate **myTFenv**_
 
 6)  your command-line prompt should change to reflect that you are in and active environment.
-    For example: $(myTFenv) C:\Users\<your username>  >
+    
+    **For example:**  _$(myTFenv) C:\Users\ [your username]_
 
 7)  Once the environment is active and you are at the command prompt again, type:
-     pip install keras
+    
+    **_pip install keras_**
 
 
 ## Additional Presentation Specific Links or Setup
