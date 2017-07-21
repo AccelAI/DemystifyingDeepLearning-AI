@@ -48,7 +48,7 @@ Two days of hands on collaborative learning
 
 FULL WORKSHOP DETAILS: https://www.accel.ai/demystifying-ai-july17
 
-[FINAL SCHEDULE PDF](/DDL-halfFoldBrochure-0717-final.pdf)
+[FINAL SCHEDULE PDF](/jul17/DDL-halfFoldBrochure-0717-final.pdf)
 
 
 Tickets are not sold out yet. [Register](https://www.eventbrite.com/e/demystifying-deep-learning-ai-tickets-34351888423) before it is too late!
