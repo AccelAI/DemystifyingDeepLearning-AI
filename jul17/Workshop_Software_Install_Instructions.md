@@ -123,3 +123,6 @@ For example:  conda create --prefix  ~\anaconda3\envs\myTFenv python=3.6.1 scipy
 
 -Create Microsoft Account (https://dev.botframework.com/)
 
+### Can a machine control the human body? with Lukasz Kidzinski, PhD
+
+-Fork & Clone Github repo: https://github.com/stanfordnmbl/osim-rl#getting-started
