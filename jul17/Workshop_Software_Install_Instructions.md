@@ -138,3 +138,7 @@ _____________________________________________
 ### Can a machine control the human body? with Lukasz Kidzinski, PhD
 
 -Fork & Clone Github repo: https://github.com/stanfordnmbl/osim-rl#getting-started
+
+### Hands on Intro to Pytorch with Abhishek Sharma
+
+-Fork & Clone Github repo: https://github.com/abhi21/pytorch-tutorial
