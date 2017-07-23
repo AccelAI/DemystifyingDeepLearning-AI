@@ -138,3 +138,7 @@ _____________________________________________
 ### Can a machine control the human body? with Lukasz Kidzinski, PhD
 
 -Fork & Clone Github repo: https://github.com/stanfordnmbl/osim-rl#getting-started
+
+## Smart Villages Workshop
+
+-Doc: https://drive.google.com/drive/folders/0B5jWGSpbXP6SYTVRemhzQWFKSDg
