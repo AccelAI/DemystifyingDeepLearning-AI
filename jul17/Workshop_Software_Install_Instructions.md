@@ -113,6 +113,10 @@ _____________________________________________
 
 ## Additional Presentation Specific Links or Setup
 
+### Why AI Works: The Epistemeology of Deep Learning
+
+-[Presentation Slides](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jTUJNR0RFVWtqMHFVamI0Sllrbk9CN1NZbUZJ/view?usp=sharing) 
+
 ### Intro to Machine Learning with George McIntire
 
 -Fork & Clone Github repo: https://github.com/GeorgeMcIntire/intro_ml_presentation
@@ -125,6 +129,12 @@ _____________________________________________
 
 -Fork & Clone Github repo: https://github.com/roemmele/keras-rnn-demo
 
+
+### Hands on Intro to Pytorch with Abhishek Sharma
+
+-Fork & Clone Github repo: https://github.com/abhi21/pytorch-tutorial
+
+
 ### Building Chatbots with Michael Khait 
 
 -Install the latest version of NodeJS (https://nodejs.org/en/download/)
@@ -135,10 +145,34 @@ _____________________________________________
 
 -Create Microsoft Account (https://dev.botframework.com/)
 
+-[Presentation Slides](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jQU5jWjl1OVlOWXdsLXg3NTQxYldZWnpMSmhN/view?usp=sharing)
+
 ### Can a machine control the human body? with Lukasz Kidzinski, PhD
 
 -Fork & Clone Github repo: https://github.com/stanfordnmbl/osim-rl#getting-started
 
-### Hands on Intro to Pytorch with Abhishek Sharma
+-[Presentation Slides](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jd0tlN3A1d3RxZ0hlTHd4eXRYQl9RQVZBTjBN/view?usp=sharing)
 
--Fork & Clone Github repo: https://github.com/abhi21/pytorch-tutorial
+### Molecular Machine Learning with Bharath Ramsundar
+
+-[Presentation Slides](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jLW41Wm1yWVJwM3FCQmRTMTF1WWgyYmZ0VWsw/view?usp=sharing)
+
+## Smart Villages Workshop
+
+-Doc: https://drive.google.com/drive/folders/0B5jWGSpbXP6SYTVRemhzQWFKSDg
+
+## Representing and mining multisource, multimodal and heterogeneous data with Ben-Manson Toussaint, PhD
+
+-[Presentation Slides](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jeVdqUHlObGJzR1ZuT2F2Y3otd3djcGxkYk1B/view?usp=sharing)
+
+## Product Market Fit in AI with Masha Kubyshina
+
+-[Presentation Slides](https://docs.google.com/presentation/d/19qHFZKy9VgHGlZUE_E1nEJM-g9dMsfAumJr4XJbfJdw/edit?usp=sharing)
+
+### Personalization Redefined Through Machine Learning with Sudha Subramanian
+
+-[Presentation Slides](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jbjV3cTJraEdpRWZpeTNCQXVPT3lZSzlUN2Qw/view?usp=sharing)
+
+## Machine Learning Tools with Pankaj Kumar
+
+-[Presentation Slides](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jUUtjYUxKQVZ5MlRaejR3SHRnRnZqamlRTFhF/view?usp=sharing)
