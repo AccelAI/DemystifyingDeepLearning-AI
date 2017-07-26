@@ -129,6 +129,12 @@ _____________________________________________
 
 -Fork & Clone Github repo: https://github.com/roemmele/keras-rnn-demo
 
+
+### Hands on Intro to Pytorch with Abhishek Sharma
+
+-Fork & Clone Github repo: https://github.com/abhi21/pytorch-tutorial
+
+
 ### Building Chatbots with Michael Khait 
 
 -Install the latest version of NodeJS (https://nodejs.org/en/download/)
