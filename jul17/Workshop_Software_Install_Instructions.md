@@ -155,6 +155,10 @@ _____________________________________________
 
 -Doc: https://drive.google.com/drive/folders/0B5jWGSpbXP6SYTVRemhzQWFKSDg
 
+## Representing and mining multisource, multimodal and heterogeneous data with Ben-Manson Toussaint, PhD
+
+-[Presentation Slides](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jeVdqUHlObGJzR1ZuT2F2Y3otd3djcGxkYk1B/view?usp=sharing)
+
 ## Product Market Fit in AI with Masha Kubyshina
 
 -[Presentation Slides](https://docs.google.com/presentation/d/19qHFZKy9VgHGlZUE_E1nEJM-g9dMsfAumJr4XJbfJdw/edit?usp=sharing)
