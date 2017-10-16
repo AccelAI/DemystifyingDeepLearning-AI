@@ -42,11 +42,21 @@ Events Hosted by [ACCEL.AI](http://accel.ai)
 
 ### July 21st - 23rd, 2017 - Merritt College
 
--[Event Details]()
+-[Event Details](https://www.accel.ai/demystifying-ai-july17)
 
 -[Workshop Software Download & Install Instructions](/jul17/)
 
--[Registration]()
+-[Registration](https://www.eventbrite.com/e/demystifying-deep-learning-ai-tickets-34351888423#)
+
+
+
+### October 19th - 20th, 2017 - Google Launchpad SF
+
+-[Event Details](https://www.accel.ai/demystifying-ai-oct17)
+
+-[Workshop Software Download & Install Instructions](/oct17/)
+
+-[Registration](https://demystifying-ai-oct.eventbrite.com/)
 
 
 
