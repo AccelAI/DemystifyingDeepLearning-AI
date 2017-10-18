@@ -49,7 +49,7 @@ Package Documentation:
 
  2) Open a terminal and  `cd` to your home directory ( `cd ~/` )
 
- 3) Customzie & paste the following into the terminal and press **[Enter]** to start the environment installation:
+ 3) Customize & paste the following into the terminal and press **[Enter]** to start the environment installation:
  
     `
     conda create --prefix ~/anaconda3/envs/[name of your environment] python=[version of python you want installed] scipy     scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano
