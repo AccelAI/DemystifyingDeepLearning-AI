@@ -52,11 +52,11 @@ Package Documentation:
  3) Customize & paste the following into the terminal and press **[Enter]** to start the environment installation:
  
     `
-    conda create --prefix ~/anaconda3/envs/[name of your environment] python=[version of python you want installed] scipy     scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano
+    conda create --prefix ~/anaconda3/envs/[name of your environment] python=[version of python you want installed] scipy     scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow theano
     `
      
     **For example:**  _conda create --prefix  ~/anaconda3/envs/**myTFenv** python=**3.6.1** scipy scikit-learn nose readline
-                      pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano_
+                      pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow theano_
 
  4) Once the above has run successfully, there will be a message about activating the environment
 
@@ -90,10 +90,10 @@ _____________________________________________
  3) Customize & Paste the following into the terminal and press **[Enter]** to start the environment installation:
 
    `
-   conda create --prefix ~\anaconda3\envs\[name of your environment] python=[version of python you want installed] scipy scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano
+   conda create --prefix ~\anaconda3\envs\[name of your environment] python=[version of python you want installed] scipy scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow theano
    `
 
-**For example:**  _conda create --prefix  ~\anaconda3\envs\ **myTFenv** python= **3.6.1** scipy scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow pytorch theano_
+**For example:**  _conda create --prefix  ~\anaconda3\envs\ **myTFenv** python= **3.6.1** scipy scikit-learn nose readline pandas seaborn jupyter tk graphviz requests pyyaml ipywidgets tensorflow theano_
 
 
  4) Once the above has run successfully, there will be a message about activating the environment
@@ -124,3 +124,30 @@ https://github.com/AccelAI/datascience-docker/blob/master/README.md
 ## Additional Presentation Specific Links or Setup
 
 These will be added as speakers turn in their links.
+
+### Intro to Machine Learning with George McIntire
+
+-Fork & Clone Github repo: https://github.com/GeorgeMcIntire/intro_ml_presentation
+
+### Data Cleaning with Kristin Henry
+
+-Fork & Clone Github repo: https://github.com/KristinHenry/workshopOct2017
+
+Slides: https://docs.google.com/presentation/d/1oOV7lVE5ZCniZVHHdFm0tRCzY4E7Ls_XLL88G5RS0jg/edit?usp=sharing
+
+### Molecular Machine Learning with Bharath Ramsundar
+
+Slides: https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jLW41Wm1yWVJwM3FCQmRTMTF1WWgyYmZ0VWsw/view?usp=sharing
+
+### Hands on Intro to Pytorch with Abhishek Sharma
+
+-Fork & Clone Github repo: https://github.com/abhi21/pytorch-tutorial
+
+### AI for Banking & Insurance with Ian Foley
+
+Slides: https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jeHQxSF9idHItWmVqSWh2ZjR4SWxyaDE2YkNn/view?usp=sharing
+
+### Representation Learning with Nathaniel Tucker
+
+Slides: https://docs.google.com/presentation/d/11cgq2sDBzkjTo0-bLiJFThSN1IStqEcbLrduKcIKLRc/edit?usp=sharing
+
