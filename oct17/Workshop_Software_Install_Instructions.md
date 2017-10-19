@@ -137,7 +137,7 @@ Slides: https://docs.google.com/presentation/d/1oOV7lVE5ZCniZVHHdFm0tRCzY4E7Ls_X
 
 ### Molecular Machine Learning with Bharath Ramsundar
 
-Slides: https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jLW41Wm1yWVJwM3FCQmRTMTF1WWgyYmZ0VWsw/view?usp=sharing
+Slides: https://docs.google.com/presentation/d/1BHrBk2QbARHCl-nOjCioNEgeyx82OHG5QyLBHYFhjlI/edit?usp=sharing
 
 ### Hands on Intro to Pytorch with Abhishek Sharma
 
