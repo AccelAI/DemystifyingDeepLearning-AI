@@ -135,6 +135,10 @@ These will be added as speakers turn in their links.
 
 Slides: https://docs.google.com/presentation/d/1oOV7lVE5ZCniZVHHdFm0tRCzY4E7Ls_XLL88G5RS0jg/edit?usp=sharing
 
+### Algorithm Co-Lab with Laura Montoya
+
+Algorithm Reference Sheet: https://docs.google.com/document/d/1qrHcvEt7QSDK8ySga1qWeP7s12wYRDVlOlmMtTNhBQA/edit?usp=sharing
+
 ### Molecular Machine Learning with Bharath Ramsundar
 
 Slides: https://docs.google.com/presentation/d/1BHrBk2QbARHCl-nOjCioNEgeyx82OHG5QyLBHYFhjlI/edit?usp=sharing
