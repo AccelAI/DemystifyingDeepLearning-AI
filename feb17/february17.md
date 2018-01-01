@@ -1,4 +1,4 @@
-#DEMYSTIFYING DEEP LEARNING & AI - Feb 4th - 5th, 2017
+# DEMYSTIFYING DEEP LEARNING & AI - Feb 4th - 5th, 2017
 
 [Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) according to Harvard Business Review
 
@@ -21,7 +21,7 @@ We have developed community partnerships with the best in the industry so you ca
 
 
 
-##What's in it for you?
+## What's in it for you?
 
 -Two days of hands on collaborative learning
 
@@ -43,7 +43,7 @@ Tickets are not sold out yet. [Sign up before it is too late!](https://www.picat
 
 
 
-##Agenda
+## Agenda
 
 SATURDAY February 4th, 2017 - JAMES IRVINE CONFERENCE CENTER
 
@@ -69,15 +69,15 @@ Time | Description
 4:00 - 4:30 pm | Closing Remarks
 
 
-###Final Schedule
+### Final Schedule
 [Schedule Brochure](DDL&AIFinalSched.pdf)
 
 
-##Collection of Presentation Materials
+## Collection of Presentation Materials
 
-###Pre-workshop Materials:
+### Pre-workshop Materials:
 
-####Package Installation Instructions
+#### Package Installation Instructions
 
 [Python](https://www.python.org/downloads/) |
 [Numpy](http://scipy.org/install.html) |
@@ -93,7 +93,7 @@ Instructional videos for step by step installation guides:
 [Installing TensorFlow - TensorFlow is supported by Mac and Linux, but not Windows. You can use their Docker distribution on Windows if you wanted.](https://youtu.be/CvspEt8kSIg)
 
 
-##Speakers
+## Speakers
 
 ![Aman Ahuja](/img/aman.jpg)
 
@@ -115,7 +115,7 @@ Topic:
 
 *Designing Machine Learning Systems to Drive Business
 
-###[Slide Deck](https://docs.google.com/presentation/d/11n7yG4CV6htCANPdBPyDVyI0tFf3mbCuTlhyVviGZiU/edit?usp=sharing)
+### [Slide Deck](https://docs.google.com/presentation/d/11n7yG4CV6htCANPdBPyDVyI0tFf3mbCuTlhyVviGZiU/edit?usp=sharing)
 
 
 
@@ -139,7 +139,7 @@ Topic:
 
 *TensorFlow 201: How to organize code and use TensorBoard for debugging NNs
 
-###[Slide Deck](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jRm00NkcyQ3VhQy1FVlZzR21DUE9reDRTWmdJ/view?usp=sharing)
+### [Slide Deck](https://drive.google.com/a/accel.ai/file/d/0B5S9_hdLh22jRm00NkcyQ3VhQy1FVlZzR21DUE9reDRTWmdJ/view?usp=sharing)
 
 
 
@@ -154,9 +154,9 @@ Topic:
 We know that the best policies are based on data, but what about algorithms? Machine learning provides a massive opportunity to leverage existing data to research larger social trends - and we’ve only scratched the surface of how law and government can benefit from this. In this talk, we’ll discuss applying data science in this context, and how we as Data Scientists can positively impact the adoption of data science in law and government through public-facing projects.
 
 
-###[Slide Deck](https://docs.google.com/presentation/d/1FCyqLsxLG3IFPbccqVBRj9jrUfmuC9GXPc0Fo7Nvnuw/edit#slide=id.g35f391192_00)
+### [Slide Deck](https://docs.google.com/presentation/d/1FCyqLsxLG3IFPbccqVBRj9jrUfmuC9GXPc0Fo7Nvnuw/edit#slide=id.g35f391192_00)
 
-###[Supreme Court Topics Overtime Visualization](https://github.com/emilyinamillion/supreme-court-topics-overtime)
+### [Supreme Court Topics Overtime Visualization](https://github.com/emilyinamillion/supreme-court-topics-overtime)
 
 
 
@@ -176,7 +176,7 @@ Topic:
 
 *Ethics in Artificial Intelligence
 
-###[Slide Deck](https://drive.google.com/file/d/0B971Pf8qGtfOTlZRVjZScWt3bWM/view?usp=sharing)
+### [Slide Deck](https://drive.google.com/file/d/0B971Pf8qGtfOTlZRVjZScWt3bWM/view?usp=sharing)
 
 ![Jack Crawford](/img/jack.jpg)
 
@@ -196,7 +196,7 @@ Topic:
 
 How to identify an opportunity for predictive AI within a business. Also, 3 things needed to successfully deliver these new capabilities to business owners.
 
-###[Slide Deck](http://www.slideshare.net/jackccrawford/a-brief-history-of-artificial-intelligence-for-business)
+### [Slide Deck](http://www.slideshare.net/jackccrawford/a-brief-history-of-artificial-intelligence-for-business)
 
 
 ![Stefan Kojouharov](/img/stefan.jpg)
@@ -221,7 +221,7 @@ Topic:
 
 *Analyzing 100K job postings with NLP
 
-###[Slide Deck](https://drive.google.com/file/d/0B5S9_hdLh22jWTZQYWFuYm9heThGUnY1dEswODIybWVaNXRB/view?usp=sharing)
+### [Slide Deck](https://drive.google.com/file/d/0B5S9_hdLh22jWTZQYWFuYm9heThGUnY1dEswODIybWVaNXRB/view?usp=sharing)
 
 
 ![Nimay Parekh](/img/nimay.jpg)
@@ -234,7 +234,7 @@ Topic:
 
 *Rise of the Artificial Intelligence Industry
 
-###[Slide Deck](https://drive.google.com/file/d/0B5S9_hdLh22jemNLem9POVJVcENPRl9RNWx2MVV0VG8zc09j/view?usp=sharing)
+### [Slide Deck](https://drive.google.com/file/d/0B5S9_hdLh22jemNLem9POVJVcENPRl9RNWx2MVV0VG8zc09j/view?usp=sharing)
 
 
 
@@ -250,7 +250,7 @@ Topic:
 
 Keras is a minimalisitc Python Deep Learning library that works on top of TensorFlow or Theano. It helps to quickly prototype Deep Learning models, and works seamlessly with both CPUs and GPUs. In this talk you will learn about how to build a simple image classification model using Keras.
 
-###[Intro into Keras and Image Classification](https://github.com/malaikannan/Talks)
+### [Intro into Keras and Image Classification](https://github.com/malaikannan/Talks)
 
 
 ![Abhishek Sharma](/img/abhishek.jpg)
@@ -270,7 +270,7 @@ Topics Covering:
 *Lab Session: Tensor Flow install & Problem Sets
 
 
-###[Github with Slides and Code](https://github.com/abhi21/intro_to_ml_dl)
+### [Github with Slides and Code](https://github.com/abhi21/intro_to_ml_dl)
 
 
 ![Dr. Ming-Hwa Wang](/img/mhw.jpg)
@@ -285,36 +285,36 @@ Overview of artificial intelligence and sub-fields (such as machine learning, da
 
 
 
-##Interested in sharing your knowledge?
+## Interested in sharing your knowledge?
 
 We pride ourselves in bringing the best and brightest engineers & entrepreneurs to present at our workshops. If you are passionate about sharing your knowledge and experience in Artificial Intelligence, Data Science, Data Engineering, Data Analytics, Big Data, Robotics, or Gaming with the community - [APPLY NOW!](https://goo.gl/forms/MF0Mb2d3IkdKhTLE3)
 
 
-##DESIGNED TO LOWER THE BARRIERS TO ENTRY IN UNDERSTANDING AND ENGINEERING AI
+## DESIGNED TO LOWER THE BARRIERS TO ENTRY IN UNDERSTANDING AND ENGINEERING AI
 
 [Accel.AI](http://www.accel.ai/) is on a mission to make developing Artificial Intelligence more diverse, inclusive, and impactful by removing barriers to attending. We are offering students a 50% discount code: "STUDENT". We will be checking student IDs at check-in so be sure to bring yours.
 
 To ensure these opportunities are not cost prohibitive to anyone, if you identify as an "underrepresented person" in tech (eg. woman, person of color, lgbtq, or person with disability) [Contact us to receive up to an 80% discount!](mailto:info@accel.ai)
 
 
-##Interested in volunteering?
+## Interested in volunteering?
 
 We need volunteers to help make this an amazing event. Sign up to be a volunteer for the opportunity to receive free entry: [Signup to Volunteer!](https://www.volunteersignup.org/PK9PP)
 
 
-##Interested in sponsoring?
+## Interested in sponsoring?
 
 This is a unique chance to meet diverse engineers, entrepreneurs, researchers and more! [Contact us for more information.](mailto:info@accel.ai)
 
 
-##PARKING
+## PARKING
 
 There are five parking structures that service the Civic Center Plaza. The closest is beneath the Dalziel Building. The entrance to this garage is on 16th Street between Clay Street and Telegraph Avenue.
 
 Parking also is available in the City Center Garage, located beneath City Center, accessed via entrances on 14th Street between the 1300 Clay Street and 505 14th Street buildings, or via 11th Street just past Clay. A third parking structure is located very nearby on San Pablo Avenue, with entrances on both 16th and 17th streets. In addition, there is a parking structure on Clay between 14th and 16th streets. Finally, there is a large parking structure, City Center Garage West, on the corner of 12th and Jefferson streets, and accessed via entrances on 12th and on Martin Luther King, Jr. Way (across from Preservation Park).
 
 
-##PUBLIC TRANSPORTATION
+## PUBLIC TRANSPORTATION
 
 Civic Center Plaza is serviced by all AC transit lines and by BART 12th St Station.
 
@@ -322,7 +322,7 @@ Civic Center Plaza is serviced by all AC transit lines and by BART 12th St Stati
 Get the latest in AI news by following us on [twitter](https://twitter.com/AccelerateAI) & [facebook](https://www.facebook.com/accelai/). Don't forget to continue learning, connecting, and growing with your peers on our community [slack channel](https://slackin-nxoonaofoz.now.sh/), [meetup group](https://www.meetup.com/San-Francisco-Deep-Learning-Amateurs-Meetup/), & [facebook group](https://www.facebook.com/groups/1691724667816799/?ref=bookmarks)!
 
 
-##Sponsors
+## Sponsors
 
 ![Kapor Center for Social Impact](/img/kapor-logo.png)
 
