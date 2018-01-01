@@ -1,4 +1,4 @@
-#DEMYSTIFYING DEEP LEARNING & AI - NOV 19TH-20TH, 2016
+# DEMYSTIFYING DEEP LEARNING & AI - NOV 19TH-20TH, 2016
 
 Artificial Intelligence and Deep Learning are the current buzzwords of the tech industry. So, have you been wondering what all the fuss is about?
 
@@ -14,7 +14,7 @@ Learn how to use the latest AI open source platforms including:
 Network & Mingle with PhD students, faculty members, and industry research scientists. Share your projects and vision for the future of Deep Learning & Artificial Intelligence.
 
 
-##Agenda
+## Agenda
 
 SATURDAY NOVEMBER 19TH, 2016 - JAMES IRVINE CONFERENCE CENTER
 
@@ -43,11 +43,11 @@ Time | Description
 
 [**Workshop Photos**](https://photos.google.com/share/AF1QipOYP-AK3-ue797XfOs1-2bXKOnFi8AIdr2043KLmuZTvchbfXAcAAJaNF5gKscACw?key=bG40RWdRcjhsVWtlMGt2aURlUmFOcFNMbDM3ZFhn)
 
-##Collection of Presentation Materials
+## Collection of Presentation Materials
 
-###Pre-workshop Materials:
+### Pre-workshop Materials:
 
-####Package Installation Instructions
+#### Package Installation Instructions
 
 [Python](https://www.python.org/downloads/) |
 [Numpy](http://scipy.org/install.html) |
@@ -63,9 +63,9 @@ Instructional videos for step by step installation guides:
 [Installing TensorFlow - TensorFlow is supported by Mac and Linux, but not Windows. You can use their Docker distribution on Windows if you wanted.](https://youtu.be/CvspEt8kSIg)
 
 
-##Workshop Materials
+## Workshop Materials
 
-###Intro Sessions:
+### Intro Sessions:
 
 
 **Introduction to Machine Learning with Luis Serrano, PhD.**
@@ -124,7 +124,7 @@ Understand the basics of deep neural networks and play with Keras, a minimalist,
 
 
 
-###Advanced Sessions:
+### Advanced Sessions:
 
 
 **Internal workings of a convnet and the process of implementing it on Spark with Jeremy Nixon**
@@ -208,7 +208,7 @@ This talk is an in-depth explanation of Long Short-Term Memory and how they solv
 
 
 
-###Lightning Talks:
+### Lightning Talks:
 
 
 **Did Big Data Fail us in the Presidential Election? with Rumman Chowdhury**
@@ -260,7 +260,7 @@ MACHINE LEARNING FOR ROBOTICS
 What is a robot? Why is A.I. important in personal robotics? We now have the ability to digest enormous amounts of data, to read our own thoughts, and are now able to prevent disease - rather than treating it. The era of personalized robotics is upon us, designed for you, better serving us as individuals. This next era of robotic automation, brings them out of the factories ( big industry), and into our everyday lives; much of this, will be enhanced and accelerated by A.I.
 
 
-##Presenters Spotlight
+## Presenters Spotlight
 
 ![Samuel Bozek](/img/sam.jpg)
 
